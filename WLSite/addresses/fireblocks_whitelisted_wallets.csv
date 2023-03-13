@@ -1,874 +1,782 @@
 Address Type,Wallet Name,Asset,Asset Name,Address,Tag/Memo,Balance
-Internal,CoinBase EU,GALA,Gala,0x8102B708b2D73F377CDb84FaBBC7c5158917e804,,0
-Internal,CoinBase EU,FET,Fetch,0xf9f1DC3f3F1313C46B57E8dADFb4A4866D3c042C,,0
-Internal,CoinBase EU,CRV,Curve DAO Token,0xc5fBE24750426E5e0A78fFF99160b46921500E2C,,0
-Internal,CoinBase EU,ANKR,Ankr Network,0xB86177b374174D2f54493f73a085cdd7Bdf4C689,,0
-Internal,CoinBase EU,LPT,Livepeer Token,0x39fbe59D5e4AF7895380F290FBe0F6Fb08FD6F19,,49.55
-Internal,CoinBase EU,UNI,Uniswap,0xABCB1Ffa6391Bf457FcCDdC64Dc0F78942C4606b,,0
-Internal,CoinBase EU,CTSI,Cartesi Token,0xe8230722bBBE5aaB4A19b38caeF4E8d65e548e08,,0
-Internal,CoinBase EU,SAND,SAND,0xd4Fcc7D21fB4c941B89152729A12f87F311f4b5E,,0
-Internal,CoinBase EU,REN,Republic,0x5020d33c8802c5d8142Af128a458e5c1e289Bac4,,0
-Internal,CoinBase EU,BAT,Basic Attn.,0x93b89b4FB32DD8e0BC467c5d761bC61bff954e1f,,0
-Internal,CoinBase EU,MATIC,Matic Token (Ethereum),0x46D1dFcF04f84146cE0C1E25FF805f661b7B1cBb,,0
-Internal,CoinBase EU,ETC,Ethereum Classic,0xe512CE0A1722Df4a947ae56269759582E250721B,,0
-Internal,CoinBase EU,USDT_ERC20,Tether USD (Ethereum),0xaA75266d1c208fB3AB5366DC7BA89a1863084dF2,,0
-Internal,CoinBase EU,DOT,Polkadot,13cfg7T8ToRKST8Xm2uYUBh8fJ2DF1Evnx4bPzj6hE5eavsH,,0
-Internal,CoinBase EU,BCH,Bitcoin Cash,1L4vdTnhkDmFzbkPCRjMcG3mHi5cW3WmN9,,0
-Internal,CoinBase EU,BICO,Biconomy Token,0xD2B3d7e977bacE1c0124c7D9dC9e3746462EbbF6,,31439.73
-Internal,CoinBase EU,ALICE,ALICE,0xfa9eb99D1Ed2B44818C2B64d71D404041D8D27Ee,,0
-Internal,CoinBase EU,IMX_ERC20,Immutable X,0x4bbD3D8916B058C5F1D36a154E911Ad5E107e0Fe,,862.46
-Internal,CoinBase EU,KNC,Kyber Network Crystal v2,0x94B6BCec76F221F08995533baC4d9DF92E58F594,,10078.8
-Internal,CoinBase EU,BAL,Balancer,0xcE985B6f1c90Ce334E5cB5EEddD175E56Ea07aE0,,0
-Internal,CoinBase EU,LRC,Loopring,0xe37e486931621171ad7D1381CDf9Cc2d65c0B801,,0
-Internal,CoinBase EU,XLM,Stellar,GDQP2KPQGKIHYJGXNUIYOMHARUARCA7DJT5FO2FFOOKY3B2WSQHG4W37,3530450697,39.99999
-Internal,CoinBase EU,AAVE,Aave Token,0xce13490E79DC3CB9Cd8BbA78f2aCc5F578868BB6,,139.38
-Internal,CoinBase EU,DOGE,Doge Coin,DE4L8jKFX4qedExYjCy7CGJVtDoTbKsEWM,,0
-Internal,CoinBase EU,CELO,Celo,0xC910962169FaB704EF1F7Af60c2f8c00FB1Fe6B4,,0.0000895
-Internal,CoinBase EU,ENJ,Enjin Coin,0x4752d9022FEe2Aa6635f3564636365FBDA36c630,,0
-Internal,CoinBase EU,SHIB,SHIBA INU,0xFE383D500e6813C0C043Aa554A2aD898e6A27bf2,,0
-Internal,CoinBase EU,SUSHI,Sushi Token,0x62a2Ba69925F89e0Dc01386FC9595Cf61D847C0F,,0
-Internal,CoinBase EU,CHZ,Chiliz (ETH),0x05128a2F42aF7bd01eEaCfedaf9b26d1674879b6,,0
-Internal,CoinBase EU,ETH,Ethereum,0xbCfa581d69f87654E856e36F60E239dd75b4cE2A,,0.000290893956446925
-Internal,CoinBase EU,XTZ,Tezos,tz1QsDsH9pa4TKAQn5XStwXQNfKUui9vaRWS,,0.49858
 Internal,CoinBase EU,ATOM_COS,Cosmos Hub,cosmos1k2xsm49xgsfn647j47acy9h32pmjjahxw88chz,,0
+Internal,CoinBase EU,STORJ,Storj,0x54f084d32f45Ff37f405722b856AfDA030132ceA,,0
+Internal,CoinBase EU,COMP,Compound Token,0xDc8D4265fE021D8c4075b4721c05C965a92C4e73,,0
+Internal,CoinBase EU,CRV,Curve DAO Token,0xc5fBE24750426E5e0A78fFF99160b46921500E2C,,0
+Internal,CoinBase EU,APE_ETH,ApeCoin,0xd8e0e93D845B65Adbd3698E5e2d623c262b0FDE6,,0
+Internal,CoinBase EU,MATIC,Matic Token (Ethereum),0x46D1dFcF04f84146cE0C1E25FF805f661b7B1cBb,,0
+Internal,CoinBase EU,LINK,Chainlink,0x6a4BE427683FCF5491EF2dce94CC966E9e37dD22,,0
+Internal,CoinBase EU,ANKR,Ankr Network,0xB86177b374174D2f54493f73a085cdd7Bdf4C689,,0
 Internal,CoinBase EU,QNT,Quant,0x385544B3fc223275dcFdF4266a5AC2e7808d3242,,0
+Internal,CoinBase EU,GALA,Gala,0x8102B708b2D73F377CDb84FaBBC7c5158917e804,,0
+Internal,CoinBase EU,AAVE,Aave Token,0xce13490E79DC3CB9Cd8BbA78f2aCc5F578868BB6,,0
+Internal,CoinBase EU,BAL,Balancer,0xcE985B6f1c90Ce334E5cB5EEddD175E56Ea07aE0,,0
+Internal,CoinBase EU,HBAR,Hedera Hashgraph,0.0.1133968,3656878848,9.99834159
+Internal,CoinBase EU,UNI,Uniswap,0xABCB1Ffa6391Bf457FcCDdC64Dc0F78942C4606b,,0
+Internal,CoinBase EU,API3,API3,0x248b50D17aA6909e2Dd4985f2a983c057fe4c8CD,,0
+Internal,CoinBase EU,ZEC,ZCash,t1bmo8XiQvWb9jPqdXCbHGWo71SBJfU6GtK,,0
+Internal,CoinBase EU,XLM,Stellar,GDQP2KPQGKIHYJGXNUIYOMHARUARCA7DJT5FO2FFOOKY3B2WSQHG4W37,3530450697,39.9989997
+Internal,CoinBase EU,ZRX,0x,0xbc86DE17f19a4e801aa93a440bcd83cAa70f33d4,,0
+Internal,CoinBase EU,DASH,Dash,XdR6o2pf9acRGSGccx94TxNPFynyy9Sn96,,0
+Internal,CoinBase EU,ENS2,Ethereum Name Service,0x6155AD9915E0763c79000a610624F5cab67F25FC,,0
+Internal,CoinBase EU,UMA,UMA Voting Token v1,0x3855bF08486E69dec1504EF455Ea7F550A07A2C2,,0
+Internal,CoinBase EU,LRC,Loopring,0xe37e486931621171ad7D1381CDf9Cc2d65c0B801,,0
+Internal,CoinBase EU,BTC,Bitcoin,13jS9DrfDuG2hxQnLssv8yUdJTwcNiETpT,,0
+Internal,CoinBase EU,ETH,Ethereum,0xbCfa581d69f87654E856e36F60E239dd75b4cE2A,,0.000321038576580555
+Internal,CoinBase EU,1INCH,1INCH Token,0x68eFC80ec95a9f19E5A88aA03834C51A8366875b,,0
+Internal,CoinBase EU,EOS,EOS,coinbasebase,1485800140,0.001
+Internal,CoinBase EU,BICO,Biconomy Token,0xD2B3d7e977bacE1c0124c7D9dC9e3746462EbbF6,,0
+Internal,CoinBase EU,MKR,Maker,0x741a2a15F8fc340F360938Bb45262D92422E3511,,0
+Internal,CoinBase EU,DOT,Polkadot,13cfg7T8ToRKST8Xm2uYUBh8fJ2DF1Evnx4bPzj6hE5eavsH,,0
+Internal,CoinBase EU,CRO,Crypto.com,0x54c61a6d13DfDa25136Bd2ba63CB8A3D0f91cf5C,,0
+Internal,CoinBase EU,XTZ,Tezos,tz1QsDsH9pa4TKAQn5XStwXQNfKUui9vaRWS,,0.49858
+Internal,CoinBase EU,LPT,Livepeer Token,0x39fbe59D5e4AF7895380F290FBe0F6Fb08FD6F19,,0
+Internal,CoinBase EU,CHZ,Chiliz (ETH),0x05128a2F42aF7bd01eEaCfedaf9b26d1674879b6,,0
+Internal,CoinBase EU,SOL,Solana,B3Xq2KRzxhGP6xicfTmpt5D4mmvEUz8w945oJRxNUtJW,,0
+Internal,CoinBase EU,OXT,Orchid,0x92afd48a2be1AF5348242C6109bdc42E2C27a92e,,0
+Internal,CoinBase EU,ENJ,Enjin Coin,0x4752d9022FEe2Aa6635f3564636365FBDA36c630,,0
+Internal,CoinBase EU,ADA,ADA (Cardano),addr1v85xzu038qtz8ldxkjxxlzq5d0w9p6vsj25tk8a5f899drguckdww,,0
+Internal,CoinBase EU,ALGO,Algorand,CSYOULFHV73G74QIHTBJN5KIJOGUOWNPWQWYVXAQBWSSRE7LEDDEZ4X6K4,0,0.198
+Internal,CoinBase EU,USDT_ERC20,Tether USD (Ethereum),0xaA75266d1c208fB3AB5366DC7BA89a1863084dF2,,0
+Internal,CoinBase EU,BAT,Basic Attn.,0x93b89b4FB32DD8e0BC467c5d761bC61bff954e1f,,0
+Internal,CoinBase EU,SAND,SAND,0xd4Fcc7D21fB4c941B89152729A12f87F311f4b5E,,0
+Internal,CoinBase EU,CELO,Celo,0xC910962169FaB704EF1F7Af60c2f8c00FB1Fe6B4,,0.0000895
+Internal,CoinBase EU,BCH,Bitcoin Cash,1L4vdTnhkDmFzbkPCRjMcG3mHi5cW3WmN9,,0
+Internal,CoinBase EU,LTC,Litecoin,LfCQSL212kT73ocDsXqwVMVQono7DAVTx8,,0
+Internal,CoinBase EU,BNT,Bancor,0x550B9A0d877c4Ee607b8a840aE800fC156593c63,,0
+Internal,CoinBase EU,SNX,Synthetix Network Token,0x522c80ADCb495062AbafbDB68ab7570ae41dE3cb,,0
+Internal,CoinBase EU,KNC,Kyber Network Crystal v2,0x94B6BCec76F221F08995533baC4d9DF92E58F594,,0
+Internal,CoinBase EU,ETC,Ethereum Classic,0xe512CE0A1722Df4a947ae56269759582E250721B,,0
+Internal,CoinBase EU,AXS,Axie Infinity Shard,0x4CcdAC95ba60bf63b2333794e64D720E6987c362,,0
+Internal,CoinBase EU,SUSHI,Sushi Token,0x62a2Ba69925F89e0Dc01386FC9595Cf61D847C0F,,0
+Internal,CoinBase EU,MANA,Decentraland,0xC4BE2D2195665778F14823c5aC79032764dF6b8B,,0
+Internal,CoinBase EU,YFI,Yearn Finance,0xb9763DdcD61Be45a1038d6f7dc77E9A471BDbB8c,,0
+Internal,CoinBase EU,FET,Fetch,0xf9f1DC3f3F1313C46B57E8dADFb4A4866D3c042C,,0
+Internal,CoinBase EU,AMP,Amp,0xe567c24751615518adeb02c47Dc360D9EB559d9e,,0
 Internal,CoinBase EU,GRT,Graph Token,0x3c680276d4104129E98c65a1552326a3d9a4522A,,0
 Internal,CoinBase EU,AVAX,Avalanche (C-Chain),0x0b6fb9C2D2D4244822Be1F2D6316EAdF63043E41,,0.0000525
-Internal,CoinBase EU,YFI,Yearn Finance,0xb9763DdcD61Be45a1038d6f7dc77E9A471BDbB8c,,0
-Internal,CoinBase EU,BTC,Bitcoin,13jS9DrfDuG2hxQnLssv8yUdJTwcNiETpT,,0
-Internal,CoinBase EU,LTC,Litecoin,LfCQSL212kT73ocDsXqwVMVQono7DAVTx8,,0
-Internal,CoinBase EU,MANA,Decentraland,0xC4BE2D2195665778F14823c5aC79032764dF6b8B,,0
-Internal,CoinBase EU,ENS2,Ethereum Name Service,0x6155AD9915E0763c79000a610624F5cab67F25FC,,144.21
+Internal,CoinBase EU,SHIB,SHIBA INU,0xFE383D500e6813C0C043Aa554A2aD898e6A27bf2,,0
 Internal,CoinBase EU,OGN,OriginToken,0x6edAEE465434De1D887c66Ba7Ef8365564584c15,,0
-Internal,CoinBase EU,EOS,EOS,coinbasebase,1485800140,0.001
-Internal,CoinBase EU,UMA,UMA Voting Token v1,0x3855bF08486E69dec1504EF455Ea7F550A07A2C2,,3996.69
-Internal,CoinBase EU,ALGO,Algorand,CSYOULFHV73G74QIHTBJN5KIJOGUOWNPWQWYVXAQBWSSRE7LEDDEZ4X6K4,0,0.198
-Internal,CoinBase EU,1INCH,1INCH Token,0x68eFC80ec95a9f19E5A88aA03834C51A8366875b,,14990.40146426
-Internal,CoinBase EU,CRO,Crypto.com,0x54c61a6d13DfDa25136Bd2ba63CB8A3D0f91cf5C,,0
-Internal,CoinBase EU,XRP,XRP (Ripple),rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg,1251241338,39.99996
-Internal,CoinBase EU,ADA,ADA (Cardano),addr1v85xzu038qtz8ldxkjxxlzq5d0w9p6vsj25tk8a5f899drguckdww,,0
-Internal,CoinBase EU,AXS,Axie Infinity Shard,0x4CcdAC95ba60bf63b2333794e64D720E6987c362,,594.95
-Internal,CoinBase EU,ZRX,0x,0xbc86DE17f19a4e801aa93a440bcd83cAa70f33d4,,0
-Internal,CoinBase EU,ZEC,ZCash,t1bmo8XiQvWb9jPqdXCbHGWo71SBJfU6GtK,,0
-Internal,CoinBase EU,MKR,Maker,0x741a2a15F8fc340F360938Bb45262D92422E3511,,0
-Internal,CoinBase EU,SOL,Solana,B3Xq2KRzxhGP6xicfTmpt5D4mmvEUz8w945oJRxNUtJW,,0
+Internal,CoinBase EU,DOGE,Doge Coin,DE4L8jKFX4qedExYjCy7CGJVtDoTbKsEWM,,0
+Internal,CoinBase EU,IMX_ERC20,Immutable X,0x4bbD3D8916B058C5F1D36a154E911Ad5E107e0Fe,,0
 Internal,CoinBase EU,BAND,BandToken,0xF872cAD797966F93e92854194FdeDA574FF591C5,,0
-Internal,CoinBase EU,DASH,Dash,XdR6o2pf9acRGSGccx94TxNPFynyy9Sn96,,0
-Internal,CoinBase EU,APE_ETH,ApeCoin,0xd8e0e93D845B65Adbd3698E5e2d623c262b0FDE6,,0
-Internal,CoinBase EU,API3,API3,0x248b50D17aA6909e2Dd4985f2a983c057fe4c8CD,,0
-Internal,CoinBase EU,AMP,Amp,0xe567c24751615518adeb02c47Dc360D9EB559d9e,,0
-Internal,CoinBase EU,OXT,Orchid,0x92afd48a2be1AF5348242C6109bdc42E2C27a92e,,0
-Internal,CoinBase EU,SNX,Synthetix Network Token,0x522c80ADCb495062AbafbDB68ab7570ae41dE3cb,,0
-Internal,CoinBase EU,STORJ,Storj,0x54f084d32f45Ff37f405722b856AfDA030132ceA,,0
-Internal,CoinBase EU,HBAR,Hedera Hashgraph,0.0.1133968,3656878848,9.9976646
-Internal,CoinBase EU,COMP,Compound Token,0xDc8D4265fE021D8c4075b4721c05C965a92C4e73,,233.38
-Internal,CoinBase EU,BNT,Bancor,0x550B9A0d877c4Ee607b8a840aE800fC156593c63,,94202.62199362
-Internal,CoinBase EU,LINK,Chainlink,0x6a4BE427683FCF5491EF2dce94CC966E9e37dD22,,0
-Internal,Binance BVI,LUNA2,Terra Luna 2.0,terra1ncjg4a59x2pgvqy9qjyqprlj8lrwshm0wleht5,109226519,5833.768961
+Internal,CoinBase EU,REN,Republic,0x5020d33c8802c5d8142Af128a458e5c1e289Bac4,,0
+Internal,CoinBase EU,XRP,XRP (Ripple),rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg,1251241338,265.098932
+Internal,CoinBase EU,ALICE,ALICE,0xfa9eb99D1Ed2B44818C2B64d71D404041D8D27Ee,,0
+Internal,CoinBase EU,CTSI,Cartesi Token,0xe8230722bBBE5aaB4A19b38caeF4E8d65e548e08,,0
+Internal,Binance BVI,LTC,Litecoin,LVkyGupugzYAaiPRiT99D55WHJrzvUHV7j,,0
+Internal,Binance BVI,KNC,Kyber Network Crystal v2,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,OXT,Orchid,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,REN,Republic,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,AMP,Amp,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,CHZ,Chiliz (ETH),0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,LINK,Chainlink,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,YFI,Yearn Finance,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,BNT,Bancor,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,SOL,Solana,HZKD4ZnsHYFdUov6NaLJTik6qcBziQxRbi6CaQayXMmS,,0.009995
+Internal,Binance BVI,MATIC,Matic Token (Ethereum),0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,ETH,Ethereum,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0.019646788295127544
+Internal,Binance BVI,BAND,BandToken,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
 Internal,Binance BVI,BAT,Basic Attn.,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,UNI,Uniswap,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,TRX,Tron,TA1Snos7F59CoDBdbjj5epiYJgnboyNq61,,20
+Internal,Binance BVI,ZRX,0x,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,FTM,Fantom Token (ERC20),0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,SRM,Serum,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,MANA,Decentraland,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,STORJ,Storj,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,ETC,Ethereum Classic,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0.000003996
+Internal,Binance BVI,AXS,Axie Infinity Shard,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,CRV,Curve DAO Token,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,LRC,Loopring,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,BICO,Biconomy Token,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,DASH,Dash,XtuNArmFQJzzbaNDeWj7fZeNQUg19VJjEi,,0
+Internal,Binance BVI,LUNA2,Terra Luna 2.0,terra1ncjg4a59x2pgvqy9qjyqprlj8lrwshm0wleht5,109226519,12.837038
+Internal,Binance BVI,ALICE,ALICE,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,XTZ,Tezos,tz1dfdtup2C3LcwbrLpuzqi1dqVr3SxBVQLQ,,0.002
+Internal,Binance BVI,ALGO,Algorand,MOMZBLFCE2KIBWOFZIKRZCSUTAXB6R6GGIY6TNPJ6M24UUQ7DZ5MEA3YSQ,0,0.399
+Internal,Binance BVI,LUNA,Terra Classic Luna,terra1ncjg4a59x2pgvqy9qjyqprlj8lrwshm0wleht5,109226519,39306510.261413
+Internal,Binance BVI,BAL,Balancer,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,SAND,SAND,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,COMP,Compound Token,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,FTT,FTX Token,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,SOL_SRM_R62M,Serum (Solana),HZKD4ZnsHYFdUov6NaLJTik6qcBziQxRbi6CaQayXMmS,,9.995
+Internal,Binance BVI,ATOM_COS,Cosmos Hub,cosmos1j8pp7zvcu9z8vd882m284j29fn2dszh05cqvf9,102997987,1.80278
+Internal,Binance BVI,ZEC,ZCash,t1KxGvBgcjSXJZ5X7NTnY3SBiCDie9Ldxkb,,0
 Internal,Binance BVI,DYDX,dYdX,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,ANKR,Ankr Network,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,AVAX,Avalanche (C-Chain),0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0.02921235
+Internal,Binance BVI,UMA,UMA Voting Token v1,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,DOGE,Doge Coin,DFeaehHAH2VyZm5DJZzpE14KxtwEyLMXJk,,0
+Internal,Binance BVI,SNX,Synthetix Network Token,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,MKR,Maker,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,BNB_BSC,BNB Smart Chain,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0.005895
+Internal,Binance BVI,ENJ,Enjin Coin,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,HBAR,Hedera Hashgraph,0.0.16952,103715395,121122.3300201
+Internal,Binance BVI,QNT,Quant,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,BTC,Bitcoin,1PRU7kt8Nwb7bkotY7pmELJissr5sriH2U,,0
 Internal,Binance BVI,API3,API3,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
 Internal,Binance BVI,AAVE,Aave Token,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,LUNA,Terra Classic Luna,terra1ncjg4a59x2pgvqy9qjyqprlj8lrwshm0wleht5,109226519,176804545.219298
-Internal,Binance BVI,BAL,Balancer,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,MATIC,Matic Token (Ethereum),0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,KNC,Kyber Network Crystal v2,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,SAND,SAND,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,ALGO,Algorand,MOMZBLFCE2KIBWOFZIKRZCSUTAXB6R6GGIY6TNPJ6M24UUQ7DZ5MEA3YSQ,0,0.399
 Internal,Binance BVI,FET,Fetch,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,1INCH,1INCH Token,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,LINK,Chainlink,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,XTZ,Tezos,tz1dfdtup2C3LcwbrLpuzqi1dqVr3SxBVQLQ,,0.002
-Internal,Binance BVI,SNX,Synthetix Network Token,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,COMP,Compound Token,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,MANA,Decentraland,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,CHZ,Chiliz (ETH),0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,XLM,Stellar,GAHK7EEG2WWHVKDNT4CEQFZGKF2LGDSW2IVM4S5DP42RBW3K6BTODB4A,1034723525,403360.3752451
-Internal,Binance BVI,LPT,Livepeer Token,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,LRC,Loopring,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,BAND,BandToken,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,IMX_ERC20,Immutable X,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,CRV,Curve DAO Token,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,SUSHI,Sushi Token,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,SKL,SKALE,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,DOT,Polkadot,1snQK5cjfEXPrLeuQayjHHgfP31FYZJ3cuHdg19Gz6wxjaU,,0
-Internal,Binance BVI,SOL,Solana,HZKD4ZnsHYFdUov6NaLJTik6qcBziQxRbi6CaQayXMmS,,0.009995
-Internal,Binance BVI,DASH,Dash,XtuNArmFQJzzbaNDeWj7fZeNQUg19VJjEi,,0
-Internal,Binance BVI,FTM,Fantom Token (ERC20),0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,XRP,XRP (Ripple),rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh,106653298,8636996.666857
 Internal,Binance BVI,GALA,Gala,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,SHIB,SHIBA INU,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,XRP,XRP (Ripple),rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh,106653298,36712.258013
 Internal,Binance BVI,CTSI,Cartesi Token,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,AXS,Axie Infinity Shard,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,BNT,Bancor,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,ZRX,0x,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,ADA,ADA (Cardano),DdzFFzCqrhseJUWhTsHsSVzWnhYShtMynnT5h4pVEnfjudjDBk4xNeEAdWX2SFLQWSru9xvpArF2Do4vTR8mfLnpAYbqeKXEK27gUd1N,,0
-Internal,Binance BVI,STORJ,Storj,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,BICO,Biconomy Token,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,YFI,Yearn Finance,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,USDT_ERC20,Tether USD (Ethereum),0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,OXT,Orchid,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,MKR,Maker,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,ALICE,ALICE,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,ENS2,Ethereum Name Service,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,LTC,Litecoin,LVkyGupugzYAaiPRiT99D55WHJrzvUHV7j,,0
-Internal,Binance BVI,ZEC,ZCash,t1KxGvBgcjSXJZ5X7NTnY3SBiCDie9Ldxkb,,0
-Internal,Binance BVI,ETC,Ethereum Classic,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0.000003996
-Internal,Binance BVI,GRT,Graph Token,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,REN,Republic,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,EOS,EOS,binancecleos,103683475,21094.3513
-Internal,Binance BVI,AMP,Amp,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,OGN,OriginToken,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,QNT,Quant,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,DOGE,Doge Coin,DFeaehHAH2VyZm5DJZzpE14KxtwEyLMXJk,,0
-Internal,Binance BVI,AVAX,Avalanche (C-Chain),0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0.02921235
-Internal,Binance BVI,ATOM_COS,Cosmos Hub,cosmos1j8pp7zvcu9z8vd882m284j29fn2dszh05cqvf9,102997987,3381.830543
-Internal,Binance BVI,SOL_SRM_R62M,Serum (Solana),HZKD4ZnsHYFdUov6NaLJTik6qcBziQxRbi6CaQayXMmS,,9.995
-Internal,Binance BVI,TRX,Tron,TA1Snos7F59CoDBdbjj5epiYJgnboyNq61,,20
-Internal,Binance BVI,UMA,UMA Voting Token v1,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,BCH,Bitcoin Cash,qr6lxckny05dujxgshh8j7nwx7cqu0dgsul08x90sw,,0
-Internal,Binance BVI,CELO,Celo,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0.000000498
-Internal,Binance BVI,ETH,Ethereum,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0.017838331333208244
-Internal,Binance BVI,HBAR,Hedera Hashgraph,0.0.16952,103715395,66396.07657176
-Internal,Binance BVI,BTC,Bitcoin,1PRU7kt8Nwb7bkotY7pmELJissr5sriH2U,,0
-Internal,Binance BVI,FTT,FTX Token,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,ENJ,Enjin Coin,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Binance BVI,SRM,Serum,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,SUSHI,Sushi Token,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,DOT,Polkadot,1snQK5cjfEXPrLeuQayjHHgfP31FYZJ3cuHdg19Gz6wxjaU,,0
 Internal,Binance BVI,APE_ETH,ApeCoin,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
-Internal,Bitgo - US-01 Real,DASH,Dash,7cyo1DyWumvVAMWC2kbRGu76vPhKfeUX57,,0
+Internal,Binance BVI,OGN,OriginToken,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,GRT,Graph Token,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,SKL,SKALE,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,SHIB,SHIBA INU,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,EOS,EOS,binancecleos,103683475,2513.5207
+Internal,Binance BVI,BCH,Bitcoin Cash,1PRU7kt8Nwb7bkotY7pmELJissr5sriH2U,,0
+Internal,Binance BVI,1INCH,1INCH Token,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,ADA,ADA (Cardano),DdzFFzCqrhseJUWhTsHsSVzWnhYShtMynnT5h4pVEnfjudjDBk4xNeEAdWX2SFLQWSru9xvpArF2Do4vTR8mfLnpAYbqeKXEK27gUd1N,,0
+Internal,Binance BVI,LPT,Livepeer Token,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,UNI,Uniswap,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,XLM,Stellar,GAHK7EEG2WWHVKDNT4CEQFZGKF2LGDSW2IVM4S5DP42RBW3K6BTODB4A,1034723525,7119.4944768
+Internal,Binance BVI,USDT_ERC20,Tether USD (Ethereum),0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,ENS2,Ethereum Name Service,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,ANKR,Ankr Network,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,IMX_ERC20,Immutable X,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0
+Internal,Binance BVI,CELO,Celo,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0.000000498
+Internal,Binance BVI,FTM_FANTOM,Fantom,0x6b5a7e87a2e207e022ab820c618b89d8374aa5d5,,0.017151908541930928
 Internal,Bitgo - US-01 Real,ZEC,ZCash,t3daQbGNUNexf8CYJedWyt278V7i2rCVn17,,0
+Internal,Bitgo - US-01 Real,DASH,Dash,7cyo1DyWumvVAMWC2kbRGu76vPhKfeUX57,,0
 Internal,Fireblocks - Payment,ADA,ADA (Cardano),addr1q85rgj83eud0lhd5m93txeq2kqlej6m98msydcqgtxzuvc4x3dcwkkkzwq9vcgat8tdugdfzrevv56fgckrmewhve3zsvrrp9h,,0
-Internal,Bitgo - W1 EU Real,BCH,Bitcoin Cash,3NVNWAfETaLZ54Tp13eUucRTq3VVNjRsUN,,127.81449452
+Internal,Bitgo - W1 EU Real,XRP,XRP (Ripple),rJVewGyhY8UCu2AMWruV8Uc93BQLbNCyLW,0,4498808.281205
+Internal,Bitgo - W1 EU Real,BTC,Bitcoin,38tHf3FyEjZJ8vTwQwyfEEbBvF1H8pkoii,,0
 Internal,Bitgo - W1 EU Real,DASH,Dash,7Z12g43GMUDd8G3857t8YfHpUu3QLLDqYT,,8005.567
-Internal,Bitgo - W1 EU Real,ETH,Ethereum,0xe4c00cfd4aa493ad890ef83ad9d643a788b17bd9,,2005.47627582
-Internal,Bitgo - W1 EU Real,XRP,XRP (Ripple),rJVewGyhY8UCu2AMWruV8Uc93BQLbNCyLW,0,4498858.28125
+Internal,Bitgo - W1 EU Real,BCH,Bitcoin Cash,3NVNWAfETaLZ54Tp13eUucRTq3VVNjRsUN,,127.61452032
+Internal,Bitgo - W1 EU Real,ETH,Ethereum,0xe4c00cfd4aa493ad890ef83ad9d643a788b17bd9,,2005.46627582
 Internal,Bitgo - W1 EU Real,ZEC,ZCash,t3WvRAarFd1fcyHNFPjxoSycbvJuF42gETr,,33335.26261
-Internal,Bitgo - W1 EU Real,BTC,Bitcoin,38tHf3FyEjZJ8vTwQwyfEEbBvF1H8pkoii,,0.00927643
-Internal,Nostro Legacy,MATIC,Matic Token (Ethereum),0x813697292505A00AF96d4a69E5650c3371Cff4e6,,0
-Internal,Nostro Legacy,ADA,ADA (Cardano),addr1qxpxjemmpwwgwxqscr5vrswc8ytr7svasy5nx5rncfh9nk0sc4nvd6gn56wpt8j46dkyy4kzehvwhhwl7eg0arrsf95sgfs7nf,,11306044.58
-Internal,Nostro Legacy,DASH,Dash,XqiYuhdx1X6CBVCNe1wNAK2wCvXvmqcQQR,,0
-Internal,Nostro Legacy,BCH,Bitcoin Cash,14fhQ59pRRJ8HzRh81j4BKL96KbkWurVxm,,0.00003829
-Internal,Nostro Legacy,ETC,Ethereum Classic,0xf521Ec995D15Df3eF4dd98671DCCc58eB17ABf91,,0.0000666
-Internal,Nostro Legacy,ETH,Ethereum,0x813697292505A00AF96d4a69E5650c3371Cff4e6,,0.22706148816778678
-Internal,Nostro Legacy,SOL,Solana,EqmxCAKs4ysdG545HC4fSuZrAgkLi5Hmcnqsgj2W2Uio,,26.38566284
-Internal,Nostro Legacy,XRP,XRP (Ripple),rN8Cz3UdVtftzH9EFQgtu6SDTQkuysPgsW,,10.000313
-Internal,Nostro Legacy,LTC,Litecoin,LeqVT6wzKB7NkNbPApiURgSnASyvPZBAeR,,0
-Internal,Nostro Legacy,BTC,Bitcoin,1PaXUwCSrHw7RtTdgh58swKGGf1ceyx5Ls,,0
-Internal,GK8 Lab,BTC,Bitcoin,38svYMWuUuT3iLy9xAMShMT1mgBh2d1LxV,,0.00268
-Internal,GK8 Lab,ETH,Ethereum,0x69861f368866B4493880efe078c8cfD6eE28033d,,0.032032
-Internal,GK8 Lab,BCH,Bitcoin Cash,qrcrcnl9mz7dme2x0gmx373354v8p6dsucqa4pawg7,,0.109
-Internal,GK8 Lab,XRP,XRP (Ripple),rGkGfCMEW4XvzQTUktxbxvvVKDYU8FKrA8,,126.99993
-Internal,B2C2,BCH,Bitcoin Cash,13KeM7Btck21HfG53WF9cLZ2Ta1148dUc5,,0
-Internal,B2C2,LTC,Litecoin,LTwhyXUELvkTjSUtThaTpAhA8QYCakqtkY,,0
+Internal,Nostro Legacy,FLR,Flare,0xF2d2F8F256CAA1e43b049678c731c5C1Dc9ea92A,,0.046094349395161265
+Internal,B2C2,SOL,Solana,GgZmDapfpXuAWXmneEQkCX8P73AQXC2HZU7U1G4ijTY2,,141200.557511084
 Internal,B2C2,BTC,Bitcoin,1MiqzAwbTgogaNpxk4KtENYZtdp9SKJt6j,,0
-Internal,B2C2,EOS,EOS,b2c2overseas,119316,165666.6967
-Internal,B2C2,MATIC,Matic Token (Ethereum),0xa29e963992597b21bcdcaa969d571984869c4ff5,,1256.74
-Internal,B2C2,ETH,Ethereum,0xa29e963992597b21bcdcaa969d571984869c4ff5,,15686.612903402483072011
-Internal,B2C2,XLM,Stellar,GAFWJ3TTYWUJJWK2ACJVTNQKXPXDJ36XLO2RZGBPPIEEEDAADJCGKAMV,2883882187,1563549.334724
-Internal,B2C2,SOL,Solana,GgZmDapfpXuAWXmneEQkCX8P73AQXC2HZU7U1G4ijTY2,,267889.244972672
+Internal,B2C2,LTC,Litecoin,LTwhyXUELvkTjSUtThaTpAhA8QYCakqtkY,,0
+Internal,B2C2,LINK,Chainlink,0xa29e963992597b21bcdcaa969d571984869c4ff5,,5667.653
+Internal,B2C2,XLM,Stellar,GAFWJ3TTYWUJJWK2ACJVTNQKXPXDJ36XLO2RZGBPPIEEEDAADJCGKAMV,2883882187,6337810.8756146
+Internal,B2C2,MATIC,Matic Token (Ethereum),0xa29e963992597b21bcdcaa969d571984869c4ff5,,746180.444363269320427982
+Internal,B2C2,ETH,Ethereum,0xa29e963992597b21bcdcaa969d571984869c4ff5,,14778.89364968748805436
+Internal,B2C2,EOS,EOS,b2c2overseas,119316,48273.734
+Internal,B2C2,XRP,XRP (Ripple),ra8xqX4QhcogFfxpMxMByvFnXyxw9E8rzY,2290927483,2690544.559627
 Internal,B2C2,DOGE,Doge Coin,DPKuanZCf9RJq9JBxzg59pQS2uie6pYjtY,,0
-Internal,B2C2,XTZ,Tezos,tz1c1aEsEo3icDvA3bY21tQA9X9FtAwXR28K,,1157.721072
+Internal,B2C2,UNI,Uniswap,0xa29e963992597b21bcdcaa969d571984869c4ff5,,34375.0862
 Internal,B2C2,ADA,ADA (Cardano),addr1q9ctuhf5e26erlrmgg8w3s3t2mmxv5h3asjsgef5cxd362q84adwr9qhnx2e6wgmz0zupacuz30p4e338znj4tsdkdcswvzd3w,,0
-Internal,B2C2,XRP,XRP (Ripple),ra8xqX4QhcogFfxpMxMByvFnXyxw9E8rzY,2290927483,9409721.323227
-Internal,B2C2,LINK,Chainlink,0xa29e963992597b21bcdcaa969d571984869c4ff5,,77195.51276157000131072
-Internal,B2C2,UNI,Uniswap,0xa29e963992597b21bcdcaa969d571984869c4ff5,,891.6666
-Internal,B2C2,AVAX,Avalanche (C-Chain),0xa29e963992597b21bcdcaa969d571984869c4ff5,,4.431679943208295
-Internal,BitfinexEU,ETHW,EthereumPoW,0xBD96A0adc3B95eF2fbadEE8dc67d188bf25678E1,,0.09997165499748
+Internal,B2C2,XTZ,Tezos,tz1c1aEsEo3icDvA3bY21tQA9X9FtAwXR28K,,105982.724451
+Internal,B2C2,AVAX,Avalanche (C-Chain),0xa29e963992597b21bcdcaa969d571984869c4ff5,,44711.113889120948816757
+Internal,B2C2,BCH,Bitcoin Cash,13KeM7Btck21HfG53WF9cLZ2Ta1148dUc5,,0
 Internal,BitfinexEU,SGB,Songbird,0xBD96A0adc3B95eF2fbadEE8dc67d188bf25678E1,,0.095275
-Internal,Jane Street Trading,GRT,Graph Token,0xaEFeB293a26a407345cA12710915971F5D643B33,,0
-Internal,Jane Street Trading,COMP,Compound Token,0xe801C2d758c8a3ADC4e117C8a2a306bc9e149DF2,,0
-Internal,Jane Street Trading,ETH,Ethereum,0x37af1471451493e8EA26A076d25eB541fcde8eDb,,0
-Internal,Jane Street Trading,ETC,Ethereum Classic,0x4afCb1970f0D67418A69255AB884c8C632009a01,,0
+Internal,BitfinexEU,ETHW,EthereumPoW,0xBD96A0adc3B95eF2fbadEE8dc67d188bf25678E1,,0.099971659545842237
+Internal,Jane Street Trading,LINK,Chainlink,0xACf37Cfc88Ea5050b18a94A2E22f3F6E646Bc38B,,0
+Internal,Jane Street Trading,MATIC,Matic Token (Ethereum),0xD2bb2cE1b37a3eF0701bb30E24BEd9BdEccC747c,,0
 Internal,Jane Street Trading,BTC,Bitcoin,bc1qfncwp3n77ahu5azdqvck89mqh9yqkcg4cakftw,,0
-Internal,Jane Street Trading,BAT,Basic Attn.,0x23853808408232B558e622A7B64bB302dB115F18,,0
+Internal,Jane Street Trading,BCH,Bitcoin Cash,bitcoincash:qr7xgtgqe5sl43nxu53p8pkhm9lse687lswrncsur8,,270.50450288
 Internal,Jane Street Trading,SOL,Solana,5T9Qsv69XyfNwHYNK8zUVCswVUj8hkDRX5UnEypCBUH5,,0
-Internal,Jane Street Trading,ADA,ADA (Cardano),addr1v9cgjh24snysq5tpk6s7hpecmm33kjp2g8wwzgu6tk4pq4cvg3sk9,,0
-Internal,Jane Street Trading,UNI,Uniswap,0x9767FD9FC178F3BbE4271Fce59B6A0f682F2982F,,0
+Internal,Jane Street Trading,XLM,Stellar,GDQP2KPQGKIHYJGXNUIYOMHARUARCA7DJT5FO2FFOOKY3B2WSQHG4W37,2692556671,39.9989997
 Internal,Jane Street Trading,MANA,Decentraland,0xd219Dc629D2d2B1A0a4A723e037A8B4D67e87DAb,,0
 Internal,Jane Street Trading,ATOM_COS,Cosmos Hub,cosmos17h3df0zftq08snpf6w83efh0rhy28rua38gh6c,3464975970,0
-Internal,Jane Street Trading,DOGE,Doge Coin,DQKUvs6XhgmqrSpagsgTPHdfc1gPFhnVa4,,0
-Internal,Jane Street Trading,MATIC,Matic Token (Ethereum),0xD2bb2cE1b37a3eF0701bb30E24BEd9BdEccC747c,,0
-Internal,Jane Street Trading,XLM,Stellar,GDQP2KPQGKIHYJGXNUIYOMHARUARCA7DJT5FO2FFOOKY3B2WSQHG4W37,2692556671,39.99999
-Internal,Jane Street Trading,BCH,Bitcoin Cash,bitcoincash:qr7xgtgqe5sl43nxu53p8pkhm9lse687lswrncsur8,,412.29196078
-Internal,Jane Street Trading,ZEC,ZCash,t1V43TBg7xp7ch8T7DptgkdgStNBdXQjPxu,,1.1721
-Internal,Jane Street Trading,LTC,Litecoin,ltc1q22yrhue9saavv5ayyc4mjpv4l3hlxd80slqvyk,,128.73004
-Internal,Jane Street Trading,LINK,Chainlink,0xACf37Cfc88Ea5050b18a94A2E22f3F6E646Bc38B,,0
 Internal,Jane Street Trading,DASH,Dash,XtdQZbFFb6TkEGKJTJBrmBKy2hrvFuczMM,,0
-Internal,Cumberland,ATOM_COS,Cosmos Hub,cosmos1e2re8am2vmp26se8uu9kya4g0a9vq4jg28eh4m,F5098110A63F64AA49EE,100672.884795
-Internal,Cumberland,EOS,EOS,b1gpowhjuvcm,i2BXJTch,3475.7605
-Internal,Cumberland,BCH,Bitcoin Cash,bitcoincash:qqy3uzz25h0de7jlz600aknecp0rdw976sutvy5s33,,0
-Internal,Cumberland,BTC,Bitcoin,bc1qs7tws860la5ywf6sjdmqqptl4utl7ndx3ze4tn,,0
+Internal,Jane Street Trading,GRT,Graph Token,0xaEFeB293a26a407345cA12710915971F5D643B33,,0
+Internal,Jane Street Trading,ZEC,ZCash,t1V43TBg7xp7ch8T7DptgkdgStNBdXQjPxu,,1.1721
+Internal,Jane Street Trading,DOGE,Doge Coin,DQKUvs6XhgmqrSpagsgTPHdfc1gPFhnVa4,,0
+Internal,Jane Street Trading,COMP,Compound Token,0xe801C2d758c8a3ADC4e117C8a2a306bc9e149DF2,,0
+Internal,Jane Street Trading,ADA,ADA (Cardano),addr1v9cgjh24snysq5tpk6s7hpecmm33kjp2g8wwzgu6tk4pq4cvg3sk9,,0
+Internal,Jane Street Trading,BAT,Basic Attn.,0x23853808408232B558e622A7B64bB302dB115F18,,0
+Internal,Jane Street Trading,ETH,Ethereum,0x37af1471451493e8EA26A076d25eB541fcde8eDb,,0
+Internal,Jane Street Trading,LTC,Litecoin,ltc1q22yrhue9saavv5ayyc4mjpv4l3hlxd80slqvyk,,128.73004
+Internal,Jane Street Trading,UNI,Uniswap,0x9767FD9FC178F3BbE4271Fce59B6A0f682F2982F,,0
+Internal,Jane Street Trading,ETC,Ethereum Classic,0x4afCb1970f0D67418A69255AB884c8C632009a01,,0
 Internal,Cumberland,AXS,Axie Infinity Shard,0x9D597B980cA98457e3Fe7628dC73731047cB64b1,,0
 Internal,Cumberland,UNI,Uniswap,0x9D597B980cA98457e3Fe7628dC73731047cB64b1,,0
-Internal,Cumberland,ETH,Ethereum,0x9D597B980cA98457e3Fe7628dC73731047cB64b1,,0
-Internal,Cumberland,BAT,Basic Attn.,0x9D597B980cA98457e3Fe7628dC73731047cB64b1,,0
-Internal,Cumberland,SUSHI,Sushi Token,0x9D597B980cA98457e3Fe7628dC73731047cB64b1,,0
-Internal,Cumberland,AAVE,Aave Token,0x9D597B980cA98457e3Fe7628dC73731047cB64b1,,0
-Internal,Cumberland,MATIC,Matic Token (Ethereum),0x9D597B980cA98457e3Fe7628dC73731047cB64b1,,0
-Internal,Cumberland,CRV,Curve DAO Token,0x9D597B980cA98457e3Fe7628dC73731047cB64b1,,0
-Internal,Cumberland,LTC,Litecoin,ltc1qwrl4cw3raamka0m2479nvxyp4h7yg2klg5jkk4,,0
-Internal,Cumberland,XRP,XRP (Ripple),rMjjMBDVwWdRsbC4QaU98MXQgSGFVv2G1c,2186,45.601266
-Internal,Cumberland,COMP,Compound Token,0x9d597b980ca98457e3fe7628dc73731047cb64b1,,0
 Internal,Cumberland,DOGE,Doge Coin,D5uLSQKudbFUHNzZCqADhBWtNZsemAQkL2,,0
+Internal,Cumberland,LTC,Litecoin,ltc1qwrl4cw3raamka0m2479nvxyp4h7yg2klg5jkk4,,0
+Internal,Cumberland,SUSHI,Sushi Token,0x9D597B980cA98457e3Fe7628dC73731047cB64b1,,0
 Internal,Cumberland,YFI,Yearn Finance,0x9D597B980cA98457e3Fe7628dC73731047cB64b1,,0
-Internal,Cumberland,AVAX,Avalanche (C-Chain),0xad6eaa735D9dF3D7696fd03984379dAE02eD8862,,7794.574082191176959
-Internal,Cumberland,XTZ,Tezos,tz1KiVkYZCUHycZZstQTFam5j3nk5BSQ6RCP,,53.647063
-Internal,Cumberland,SOL,Solana,K1c4Q9cH3cSfu64wCwLCuaaxmN54E2g2jPi3rQMj8re,,169202.98151516
-Internal,Cumberland,XLM,Stellar,GCZTHIJCBNOFRTMVIGD6MJFV6QA3IIYUU7EGL2BO2INQLOMQKJA4FLBS,3833536948,289.665361
+Internal,Cumberland,SOL,Solana,K1c4Q9cH3cSfu64wCwLCuaaxmN54E2g2jPi3rQMj8re,,99.066164696
+Internal,Cumberland,CRV,Curve DAO Token,0x9D597B980cA98457e3Fe7628dC73731047cB64b1,,0
+Internal,Cumberland,BAT,Basic Attn.,0x9D597B980cA98457e3Fe7628dC73731047cB64b1,,0
 Internal,Cumberland,LINK,Chainlink,0x9D597B980cA98457e3Fe7628dC73731047cB64b1,,0
+Internal,Cumberland,XLM,Stellar,GCZTHIJCBNOFRTMVIGD6MJFV6QA3IIYUU7EGL2BO2INQLOMQKJA4FLBS,3833536948,1271.3621107
+Internal,Cumberland,AVAX,Avalanche (C-Chain),0xad6eaa735D9dF3D7696fd03984379dAE02eD8862,,326.60665494792412068
+Internal,Cumberland,EOS,EOS,b1gpowhjuvcm,i2BXJTch,10166.5951
+Internal,Cumberland,ETH,Ethereum,0x9D597B980cA98457e3Fe7628dC73731047cB64b1,,0
+Internal,Cumberland,AAVE,Aave Token,0x9D597B980cA98457e3Fe7628dC73731047cB64b1,,0
+Internal,Cumberland,XRP,XRP (Ripple),rMjjMBDVwWdRsbC4QaU98MXQgSGFVv2G1c,2186,45.601266
+Internal,Cumberland,BCH,Bitcoin Cash,bitcoincash:qqy3uzz25h0de7jlz600aknecp0rdw976sutvy5s33,,0
+Internal,Cumberland,ATOM_COS,Cosmos Hub,cosmos1e2re8am2vmp26se8uu9kya4g0a9vq4jg28eh4m,F5098110A63F64AA49EE,38131.378857
+Internal,Cumberland,BTC,Bitcoin,bc1qs7tws860la5ywf6sjdmqqptl4utl7ndx3ze4tn,,0
+Internal,Cumberland,COMP,Compound Token,0x9d597b980ca98457e3fe7628dc73731047cb64b1,,0
+Internal,Cumberland,MATIC,Matic Token (Ethereum),0x9D597B980cA98457e3Fe7628dC73731047cB64b1,,0
+Internal,Cumberland,XTZ,Tezos,tz1KiVkYZCUHycZZstQTFam5j3nk5BSQ6RCP,,335.912458
 Internal,Fireblocks - Conversion,ADA,ADA (Cardano),addr1qxdrwwqhgnuhu0tjq50xn5a8v9lvnezkmcn5zq7w3rddmjjspz0ymhuzr8umznzk2l003au93e4wtxqv4s7c5prhr44sgqhq6u,,14.694886
-Internal,Real Germany Legacy,DASH,Dash,Xfx57jTJbQ9mA6qfXfH8VsAKfYbXGrRjXf,,0
-Internal,Real Germany Legacy,DOGE,Doge Coin,DJ8dDN2h6r1SN7dZari3YNU7ry4rPtAmPY,,0
-Internal,Real Germany Legacy,BCH,Bitcoin Cash,qpuxhuj8drvjqky5wm6udh470jpxqatu6yl7v3eeva,,0
-Internal,Real Germany Legacy,1INCH,1INCH Token,0x0F5919610885bC1f837b9C28489736A5656d79e0,,0
-Internal,Real Germany Legacy,XLM,Stellar,GD7IFAJPBN4GYV3Z2Q6ZM3H4CEYCTDCSETPQRKJEKG43EDPB3TGKZKZT,0,1
-Internal,Real Germany Legacy,MKR,Maker,0x0F5919610885bC1f837b9C28489736A5656d79e0,,0
-Internal,Real Germany Legacy,ETH,Ethereum,0x0F5919610885bC1f837b9C28489736A5656d79e0,,0.203381116990418684
-Internal,Real Germany Legacy,SOL,Solana,8mbxmrVL87PWyjD6zxUuhQLggHJtx5th6iqiweK5PvqW,,0.01794072
-Internal,Real Germany Legacy,MANA,Decentraland,0x0F5919610885bC1f837b9C28489736A5656d79e0,,0
-Internal,Real Germany Legacy,DOT,Polkadot,157JBKW9oeMvES1ZtygbxUgEZbrN31PT4hPYvpNDHtocaqmy,,0
-Internal,Real Germany Legacy,XTZ,Tezos,tz1d4TV6Ao997BJNVRUqFZLp69yDP87oqXFQ,,0
-Internal,Real Germany Legacy,BTC,Bitcoin,bc1qxmmt920rqnd9238t6qw98ld3jm2vfq5fgr4v2x,,0
-Internal,Real Germany Legacy,LINK,Chainlink,0x0F5919610885bC1f837b9C28489736A5656d79e0,,0
-Internal,Real Germany Legacy,AAVE,Aave Token,0x0F5919610885bC1f837b9C28489736A5656d79e0,,0
-Internal,Real Germany Legacy,LUNA,Terra Classic Luna,terra1ayuez2g6hykk8lwt48caq9t57vgh37g32j2rk6,0,0.239295
-Internal,Real Germany Legacy,ETC,Ethereum Classic,0xA77E87d13f59ae2b956156F1a388ff6CB445645c,,0
-Internal,Real Germany Legacy,SAND,SAND,0x0F5919610885bC1f837b9C28489736A5656d79e0,,0
-Internal,Real Germany Legacy,ZEC,ZCash,t1gk43xDGURXvx1df3HfLzTMhZfyTLX8XnF,,0
-Internal,Real Germany Legacy,MATIC,Matic Token (Ethereum),0x0F5919610885bC1f837b9C28489736A5656d79e0,,0
-Internal,Real Germany Legacy,LTC,Litecoin,ltc1qm5zlt9rvymrzxw9g4cll8uvg5aemsh660v46q5,,0
-Internal,Real Germany Legacy,XRP,XRP (Ripple),r4qRoYWHfib7j9DyUgS5uKghYCAwZ2DBhC,,10.000813
-Internal,Real Germany Legacy,UNI,Uniswap,0x0F5919610885bC1f837b9C28489736A5656d79e0,,0
-Internal,Real Germany Legacy,CELO,Celo,0xEAB1C4D7a31E1f613162A1C5eaC2835e5e0E2000,,0.0000127285
-Internal,Coinbase BVI,IMX_ERC20,Immutable X,0x5dd95e2e805b9546a5B385c78448149A2bEB2FF5,,0
-Internal,Coinbase BVI,MATIC,Matic Token (Ethereum),0x9CB92e6537C61d970f89a8fa560823E6459A7025,,500
-Internal,Coinbase BVI,QNT,Quant,0xD20fF8BB44a6bFE472AB4a449fCfA622B0A45E60,,0
-Internal,Coinbase BVI,SKL,SKALE,0xE3ee4e98641D958E9338B24e32E9BA61347c1b57,,0
-Internal,Coinbase BVI,ALGO,Algorand,JF5IS4QX5XJF7OOEIHEJYAUKPIWK3CD2HY6N65OA2IGZV4MDIFLCMSUWUY,0,0.198
+Internal,Real Germany Legacy,FLR,Flare,0x942D13F99a551c5120B3A575Cbde8191Bcb1c0cf,,0.000105
+Internal,Coinbase BVI,EOS,EOS,coinbasebase,97878656,0.001
+Internal,Coinbase BVI,MATIC,Matic Token (Ethereum),0x9CB92e6537C61d970f89a8fa560823E6459A7025,,0
+Internal,Coinbase BVI,BCH,Bitcoin Cash,1CDujwkde3Yb7oUjyVkmhPFF1yJDm8okAt,,0
+Internal,Coinbase BVI,XTZ,Tezos,tz1eKpQQHoe5kR47FvkuVKPgFLB2v5NGnKnN,,0.49858
+Internal,Coinbase BVI,ENJ,Enjin Coin,0x46188567306Ee5b56Cf8f2D9BA32E54250001F69,,0
+Internal,Coinbase BVI,ALICE,ALICE,0x34FC9A4EB518F1cE45D753e3ae9DC2D69378e079,,0
+Internal,Coinbase BVI,UNI,Uniswap,0xaa6BE8c6426C352b3c20CC2E0Bbd3Dc128Cf69B7,,0
+Internal,Coinbase BVI,APE_ETH,ApeCoin,0x5018E4b2Ffc9970229778ff1421D24d5f2B844C1,,0
+Internal,Coinbase BVI,ADA,ADA (Cardano),addr1v8flhg6s093aalhvmupnpv4n9pgm0jgrxd02qef7wq48sqsuxxrsr,,0
+Internal,Coinbase BVI,CTSI,Cartesi Token,0x345f4F0f93F064AaD878f516dFe0332e8BB7a72a,,0
 Internal,Coinbase BVI,BNT,Bancor,0x09472A6686f16904D32e2a76571fEf07587c78Dc,,0
-Internal,Coinbase BVI,BAND,BandToken,0x30aEcd10dE2c85dC7FC3048eb23947717369915E,,0
+Internal,Coinbase BVI,BICO,Biconomy Token,0xF5f49BB410717A6b33fC4d351383da81af6920E0,,0
+Internal,Coinbase BVI,IMX_ERC20,Immutable X,0x5dd95e2e805b9546a5B385c78448149A2bEB2FF5,,0
+Internal,Coinbase BVI,SNX,Synthetix Network Token,0x804dCAAc5D79FAb5Fbe60392184C91fAd1f85Cf9,,0
+Internal,Coinbase BVI,1INCH,1INCH Token,0x46C34b3960F0461A75Ae18895601b50DFEC1e81a,,0
+Internal,Coinbase BVI,ZRX,0x,0xA6cc8E2f08dA7b29d2bBa311B2e80F0635400db6,,0
+Internal,Coinbase BVI,AAVE,Aave Token,0x2320E396FF0E7fc3c74f77F95718E1e18baE1807,,0
+Internal,Coinbase BVI,BTC,Bitcoin,3P1FZtiAZr2xm4mhRUSm8kAtASSnYreo3b,,0.01
+Internal,Coinbase BVI,COMP,Compound Token,0x79B283B3f16Aa9357D60D1817deFC7e92CBC5123,,0
 Internal,Coinbase BVI,REN,Republic,0xE5B54d4353BCedf7dcD5C2bE6c171eE4E56DFD63,,0
-Internal,Coinbase BVI,DOT,Polkadot,14VCMWvb9mkBMD4U8j9RVJigixgZLGc2KFqZsv5jiSanrps,,0
-Internal,Coinbase BVI,GALA,Gala,0x890881b647684F5E4d5c8fD5676950f8937b3C08,,0
+Internal,Coinbase BVI,DASH,Dash,Xczp4muTPDMWEATa29pkF5yC9PTGapqusr,,0
+Internal,Coinbase BVI,LRC,Loopring,0xAb6A81166630208B0031133E8dCc71BB68BDBBbE,,0
+Internal,Coinbase BVI,XLM,Stellar,GDQP2KPQGKIHYJGXNUIYOMHARUARCA7DJT5FO2FFOOKY3B2WSQHG4W37,2485543383,39.9989997
+Internal,Coinbase BVI,KNC,Kyber Network Crystal v2,0x94f1801e4707c65449C1dc7D3648819Bc75268C8,,0
+Internal,Coinbase BVI,MANA,Decentraland,0x5EA6d52f986bd5b5aB791Bc49F236225cEC1b0d3,,0
+Internal,Coinbase BVI,SKL,SKALE,0xE3ee4e98641D958E9338B24e32E9BA61347c1b57,,0
+Internal,Coinbase BVI,ZEC,ZCash,t1cTFQfVFfahY6PsLwkKmof37K8hGZGQmES,,0
+Internal,Coinbase BVI,SAND,SAND,0x798aFbFc91Ee2539BECD08E89A5c0f18e3F919cB,,0
+Internal,Coinbase BVI,CELO,Celo,0x1345fC6a3b1980f319CDA9168F4d459d07752153,,0.0000895
+Internal,Coinbase BVI,MKR,Maker,0x2c741B73D8329bE61d64D2b010AE3F21e654E4BA,,0
+Internal,Coinbase BVI,ALGO,Algorand,JF5IS4QX5XJF7OOEIHEJYAUKPIWK3CD2HY6N65OA2IGZV4MDIFLCMSUWUY,0,0.198
+Internal,Coinbase BVI,AVAX,Avalanche (C-Chain),0x2C1a736B15bBC0b32a64262C45f1a3797A8f65a1,,0.0000525
+Internal,Coinbase BVI,SOL,Solana,AzocZWHCX6a6ERfFDb9oF3T2vtew9ED917Gc2EKh8Cjb,,0
+Internal,Coinbase BVI,STORJ,Storj,0xc43EC14D18a527e5E1Ea0d848EafA5D53E9641b5,,0
+Internal,Coinbase BVI,LPT,Livepeer Token,0x1075DF02840861aC18DC2412a83fe65edd3f0b1A,,0
+Internal,Coinbase BVI,HBAR,Hedera Hashgraph,0.0.1133968,2821125774,9.99834159
+Internal,Coinbase BVI,OXT,Orchid,0xD79459D17a1Db7F5dF71BAF676b4aADB0C9DB3F8,,0
+Internal,Coinbase BVI,YFI,Yearn Finance,0x0936eD9c2444C782765e62F89145F71A7689b73e,,0
+Internal,Coinbase BVI,BAT,Basic Attn.,0xF5557DEBA5b290c73FC3B8dd82f17A0B83d76d36,,0
 Internal,Coinbase BVI,CRO,Crypto.com,0xF9C7142EC8548a73D2C594d1B73040CdCB32F40b,,0
 Internal,Coinbase BVI,ENS2,Ethereum Name Service,0x816F10e454D5832EA444c16BA9deBc24ab545aC7,,0
-Internal,Coinbase BVI,LPT,Livepeer Token,0x1075DF02840861aC18DC2412a83fe65edd3f0b1A,,0
-Internal,Coinbase BVI,BICO,Biconomy Token,0xF5f49BB410717A6b33fC4d351383da81af6920E0,,0
-Internal,Coinbase BVI,OGN,OriginToken,0x4a3707d88acAb959935836Fba7d713a4e3e0AeCF,,0
-Internal,Coinbase BVI,LTC,Litecoin,MEvKikRGDc1oMp4wkteN1Pi5G2V4rUpJfJ,,0
-Internal,Coinbase BVI,SUSHI,Sushi Token,0x66cC761C4b4744b80E5535012c23B821DE1b48c5,,0
-Internal,Coinbase BVI,HBAR,Hedera Hashgraph,0.0.1133968,2821125774,9.9976646
-Internal,Coinbase BVI,DOGE,Doge Coin,DEkYjyii9A2noSfaMwSBu315P2ZCBS5HQv,,1000
-Internal,Coinbase BVI,ATOM_COS,Cosmos Hub,cosmos1fzzm7ck8c7rqhlehpn9ysy0hdg0fwchq2dad87,,0
-Internal,Coinbase BVI,BTC,Bitcoin,3P1FZtiAZr2xm4mhRUSm8kAtASSnYreo3b,,0.01
-Internal,Coinbase BVI,ADA,ADA (Cardano),addr1v8flhg6s093aalhvmupnpv4n9pgm0jgrxd02qef7wq48sqsuxxrsr,,100
-Internal,Coinbase BVI,ENJ,Enjin Coin,0x46188567306Ee5b56Cf8f2D9BA32E54250001F69,,0
-Internal,Coinbase BVI,BAT,Basic Attn.,0xF5557DEBA5b290c73FC3B8dd82f17A0B83d76d36,,0
-Internal,Coinbase BVI,LINK,Chainlink,0x3CBe4a6e3379f8A5429C58189568b9b08DC04753,,0
-Internal,Coinbase BVI,ANKR,Ankr Network,0x1914d54462f91dab57fe6C34b60C6B835928C74D,,0
-Internal,Coinbase BVI,SHIB,SHIBA INU,0xBEB04889864CCaeA14E9bB258eC6a46e1aa0c40f,,0
-Internal,Coinbase BVI,BCH,Bitcoin Cash,1CDujwkde3Yb7oUjyVkmhPFF1yJDm8okAt,,0
-Internal,Coinbase BVI,ETC,Ethereum Classic,0x5Efc57d59DdD19E04E13929818AB3bf1eAF56BF9,,0
-Internal,Coinbase BVI,1INCH,1INCH Token,0x46C34b3960F0461A75Ae18895601b50DFEC1e81a,,0
-Internal,Coinbase BVI,LRC,Loopring,0xAb6A81166630208B0031133E8dCc71BB68BDBBbE,,0
-Internal,Coinbase BVI,ETH,Ethereum,0xbc5f872de25da8488778290205ee89c3e802bb56,,0.00028196526385042
-Internal,Coinbase BVI,GRT,Graph Token,0x9AbF65b2ff3C5f314109de7bdEB7750b95bd8920,,0
-Internal,Coinbase BVI,SNX,Synthetix Network Token,0x804dCAAc5D79FAb5Fbe60392184C91fAd1f85Cf9,,0
-Internal,Coinbase BVI,DASH,Dash,Xczp4muTPDMWEATa29pkF5yC9PTGapqusr,,0
+Internal,Coinbase BVI,DOGE,Doge Coin,DEkYjyii9A2noSfaMwSBu315P2ZCBS5HQv,,0
 Internal,Coinbase BVI,CRV,Curve DAO Token,0xC51760990F389cb82b2c5C802EB1Ddb680B20De7,,0
-Internal,Coinbase BVI,CHZ,Chiliz (ETH),0x41CF0c502b9a195Ce236Dd98c04fF3c087A980B2,,0
-Internal,Coinbase BVI,FET,Fetch,0x9B83d0FF9F36e34B167582C6bEda57d22Ac677EC,,0
-Internal,Coinbase BVI,MKR,Maker,0x2c741B73D8329bE61d64D2b010AE3F21e654E4BA,,0
-Internal,Coinbase BVI,AXS,Axie Infinity Shard,0xE56c10C9c083365b1Aa2E0FA1b9f12c14942214c,,0
-Internal,Coinbase BVI,API3,API3,0xF623783Fb4077898d2E5750106B7Bcbfb54D7827,,0
-Internal,Coinbase BVI,APE_ETH,ApeCoin,0x5018E4b2Ffc9970229778ff1421D24d5f2B844C1,,0
-Internal,Coinbase BVI,XLM,Stellar,GDQP2KPQGKIHYJGXNUIYOMHARUARCA7DJT5FO2FFOOKY3B2WSQHG4W37,2485543383,39.99999
-Internal,Coinbase BVI,MANA,Decentraland,0x5EA6d52f986bd5b5aB791Bc49F236225cEC1b0d3,,0
-Internal,Coinbase BVI,OXT,Orchid,0xD79459D17a1Db7F5dF71BAF676b4aADB0C9DB3F8,,0
-Internal,Coinbase BVI,AAVE,Aave Token,0x2320E396FF0E7fc3c74f77F95718E1e18baE1807,,0
 Internal,Coinbase BVI,AMP,Amp,0x29663Ea2Dc198EeD1265714910760ec7cD428AbE,,0
-Internal,Coinbase BVI,YFI,Yearn Finance,0x0936eD9c2444C782765e62F89145F71A7689b73e,,0
+Internal,Coinbase BVI,ANKR,Ankr Network,0x1914d54462f91dab57fe6C34b60C6B835928C74D,,0
+Internal,Coinbase BVI,ETH,Ethereum,0xbc5f872de25da8488778290205ee89c3e802bb56,,0.000650966243230935
 Internal,Coinbase BVI,BAL,Balancer,0x135E2Fc37216E441E21E2C343161d4FCB1117A61,,0
-Internal,Coinbase BVI,ZEC,ZCash,t1cTFQfVFfahY6PsLwkKmof37K8hGZGQmES,,0
-Internal,Coinbase BVI,SOL,Solana,AzocZWHCX6a6ERfFDb9oF3T2vtew9ED917Gc2EKh8Cjb,,0
+Internal,Coinbase BVI,GALA,Gala,0x890881b647684F5E4d5c8fD5676950f8937b3C08,,0
+Internal,Coinbase BVI,FET,Fetch,0x9B83d0FF9F36e34B167582C6bEda57d22Ac677EC,,0
+Internal,Coinbase BVI,CHZ,Chiliz (ETH),0x41CF0c502b9a195Ce236Dd98c04fF3c087A980B2,,0
+Internal,Coinbase BVI,USDT_ERC20,Tether USD (Ethereum),0xa2f8693a45C8B71f53c153592B0f4E573F04b7A0,,2.0001
+Internal,Coinbase BVI,SUSHI,Sushi Token,0x66cC761C4b4744b80E5535012c23B821DE1b48c5,,0
+Internal,Coinbase BVI,LTC,Litecoin,MEvKikRGDc1oMp4wkteN1Pi5G2V4rUpJfJ,,0
+Internal,Coinbase BVI,OGN,OriginToken,0x4a3707d88acAb959935836Fba7d713a4e3e0AeCF,,0
+Internal,Coinbase BVI,ETC,Ethereum Classic,0x5Efc57d59DdD19E04E13929818AB3bf1eAF56BF9,,0
 Internal,Coinbase BVI,UMA,UMA Voting Token v1,0xc773bbD51483aa7Cc83E6E18a27287E4bC6232b4,,0
-Internal,Coinbase BVI,STORJ,Storj,0xc43EC14D18a527e5E1Ea0d848EafA5D53E9641b5,,0
-Internal,Coinbase BVI,COMP,Compound Token,0x79B283B3f16Aa9357D60D1817deFC7e92CBC5123,,0
-Internal,Coinbase BVI,KNC,Kyber Network Crystal v2,0x94f1801e4707c65449C1dc7D3648819Bc75268C8,,0
-Internal,Coinbase BVI,SAND,SAND,0x798aFbFc91Ee2539BECD08E89A5c0f18e3F919cB,,0
-Internal,Coinbase BVI,ZRX,0x,0xA6cc8E2f08dA7b29d2bBa311B2e80F0635400db6,,0
-Internal,Coinbase BVI,AVAX,Avalanche (C-Chain),0x2C1a736B15bBC0b32a64262C45f1a3797A8f65a1,,0.0000525
-Internal,Coinbase BVI,CTSI,Cartesi Token,0x345f4F0f93F064AaD878f516dFe0332e8BB7a72a,,0
-Internal,Coinbase BVI,ALICE,ALICE,0x34FC9A4EB518F1cE45D753e3ae9DC2D69378e079,,0
-Internal,Coinbase BVI,EOS,EOS,coinbasebase,97878656,0.001
-Internal,Coinbase BVI,USDT_ERC20,Tether USD (Ethereum),0xa2f8693a45C8B71f53c153592B0f4E573F04b7A0,,0
-Internal,Coinbase BVI,UNI,Uniswap,0xaa6BE8c6426C352b3c20CC2E0Bbd3Dc128Cf69B7,,0
-Internal,Coinbase BVI,CELO,Celo,0x1345fC6a3b1980f319CDA9168F4d459d07752153,,0.0000895
-Internal,Coinbase BVI,XTZ,Tezos,tz1eKpQQHoe5kR47FvkuVKPgFLB2v5NGnKnN,,0.49858
-Internal,Omni,BCH,Bitcoin Cash,qpljj8p42rl5cweyv7phnn800kzud7j9fu0aa3nysw,,0.00000547
-Internal,Omni,XRP,XRP (Ripple),rEnS8A4dJ6zRbEKHmajVaJVKaytmhkYJ8N,,20.09881
-Internal,Omni,LTC,Litecoin,Lciwyxgcb7wX8apDxSqm1pGKNTHyR21ypz,,0
-Internal,Omni,ETH,Ethereum,0x82eFb9563905250676CE4bd33F56963782a5Cd44,,0.001542479
-Internal,Omni,BTC,Bitcoin,15SumaBbA9mQjmfSj2AeWESpEaqyLaRKRJ,,0
-Internal,EtoroX FireBlocks,XLM,Stellar,GDZLZ3XODEM6VRSV5ICWDGKA2OD3UU2Z557PIO6QZVQB3KUXLZZJALNV,2438339133,1.01354
-Internal,EtoroX FireBlocks,BTC,Bitcoin,bc1qsyhm5esxsg3tw5pn0pj4t6hr2495ry5rscpy4x,,0
+Internal,Coinbase BVI,AXS,Axie Infinity Shard,0xE56c10C9c083365b1Aa2E0FA1b9f12c14942214c,,0
+Internal,Coinbase BVI,DOT,Polkadot,14VCMWvb9mkBMD4U8j9RVJigixgZLGc2KFqZsv5jiSanrps,,0
+Internal,Coinbase BVI,BAND,BandToken,0x30aEcd10dE2c85dC7FC3048eb23947717369915E,,0
+Internal,Coinbase BVI,API3,API3,0xF623783Fb4077898d2E5750106B7Bcbfb54D7827,,0
+Internal,Coinbase BVI,SHIB,SHIBA INU,0xBEB04889864CCaeA14E9bB258eC6a46e1aa0c40f,,0
+Internal,Coinbase BVI,ATOM_COS,Cosmos Hub,cosmos1fzzm7ck8c7rqhlehpn9ysy0hdg0fwchq2dad87,,0
+Internal,Coinbase BVI,LINK,Chainlink,0x3CBe4a6e3379f8A5429C58189568b9b08DC04753,,0
+Internal,Coinbase BVI,GRT,Graph Token,0x9AbF65b2ff3C5f314109de7bdEB7750b95bd8920,,0
+Internal,Coinbase BVI,QNT,Quant,0xD20fF8BB44a6bFE472AB4a449fCfA622B0A45E60,,0
 Internal,EtoroX FireBlocks,ETH,Ethereum,0x1B247755FEcDe192587fd92751D88235833420E7,,0.001587851579297281
 Internal,EtoroX FireBlocks,LTC,Litecoin,ltc1qj6ax755cej8hcz6padp7xk4p05w025qfarf0pj,,0
+Internal,EtoroX FireBlocks,BTC,Bitcoin,bc1qsyhm5esxsg3tw5pn0pj4t6hr2495ry5rscpy4x,,0
+Internal,EtoroX FireBlocks,XLM,Stellar,GDZLZ3XODEM6VRSV5ICWDGKA2OD3UU2Z557PIO6QZVQB3KUXLZZJALNV,2438339133,1.01354
 Internal,EtoroX FireBlocks,XRP,XRP (Ripple),rPxBxMcm9T4DBqb9o7ZXKv4xvbRxGs85La,2823460175,10.006961
-Internal,Galaxy Digital,LTC,Litecoin,ltc1q6mf5w5536u4szwyzzp3m0mualenqpwhrja0wvs,,0
-Internal,Galaxy Digital,MANA,Decentraland,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
 Internal,Galaxy Digital,DOT,Polkadot,137H3ZLYoV6yH1youdFQfNVC9ezX2tzMGYSK5jhksU91hp1V,,1
-Internal,Galaxy Digital,YFI,Yearn Finance,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
-Internal,Galaxy Digital,ENJ,Enjin Coin,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
-Internal,Galaxy Digital,EOS,EOS,1enpgeexav5q,u8iZWJoa,0.0013
-Internal,Galaxy Digital,MKR,Maker,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
-Internal,Galaxy Digital,LINK,Chainlink,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
 Internal,Galaxy Digital,XLM,Stellar,GAWY6NTBLGFUKGR3EA55NAGVX3OKLUPFPZHYBIZBFXVA5FIK6JHSA52R,0,1
+Internal,Galaxy Digital,SHIB,SHIBA INU,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
+Internal,Galaxy Digital,SOL,Solana,7Sit1UGqgSxEuvjNm99rGeRnpAHwQtEFq4gkwj319sku,,0
 Internal,Galaxy Digital,ALGO,Algorand,TH5ET6AYJUAU4GGKIGIRAQ7XSPE4FI2DABBXWUO624XPFHZTZWMA3X7MAQ,0,0
-Internal,Galaxy Digital,COMP,Compound Token,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
-Internal,Galaxy Digital,ETH,Ethereum,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0.025269289662589026
-Internal,Galaxy Digital,BCH,Bitcoin Cash,bitcoincash:qr0gkmp23m4uyhjuzcakyk5ch63cxtaq9v9ln2yuck,,0
-Internal,Galaxy Digital,SUSHI,Sushi Token,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
-Internal,Galaxy Digital,UNI,Uniswap,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
 Internal,Galaxy Digital,FTM_FANTOM,Fantom,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0.000519590547336
+Internal,Galaxy Digital,COMP,Compound Token,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
+Internal,Galaxy Digital,LINK,Chainlink,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
+Internal,Galaxy Digital,AAVE,Aave Token,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
+Internal,Galaxy Digital,AVAX,Avalanche (C-Chain),0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0.999936958
 Internal,Galaxy Digital,ETC,Ethereum Classic,0x5dcCB138fD66913B5D18656422743Ae8A9e7b816,,0.999979
-Internal,Galaxy Digital,USDT_ERC20,Tether USD (Ethereum),0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
-Internal,Galaxy Digital,XTZ,Tezos,tz1XKNCL6QZ9FT8FobcjiUVPCCPWbkb1GiKC,,0
+Internal,Galaxy Digital,ETH,Ethereum,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0.025269289662589026
 Internal,Galaxy Digital,BAT,Basic Attn.,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
 Internal,Galaxy Digital,BTC,Bitcoin,bc1qf2swfvv29h2q98weusc3vnnsqlnhpftnz083fl,,0.001
-Internal,Galaxy Digital,ADA,ADA (Cardano),addr1q8kah7phxpmjy85drun4fx76gjmdunyy962jr4h0lr84uwj8j45jws00kxenez30h8zhelljwkyr9ll3847wqxcve8cq5xfafp,,0
+Internal,Galaxy Digital,MANA,Decentraland,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
+Internal,Galaxy Digital,MKR,Maker,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
+Internal,Galaxy Digital,XTZ,Tezos,tz1XKNCL6QZ9FT8FobcjiUVPCCPWbkb1GiKC,,0
+Internal,Galaxy Digital,ENJ,Enjin Coin,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
+Internal,Galaxy Digital,EOS,EOS,1enpgeexav5q,u8iZWJoa,0.0013
 Internal,Galaxy Digital,MATIC,Matic Token (Ethereum),0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
-Internal,Galaxy Digital,AVAX,Avalanche (C-Chain),0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0.999936958
-Internal,Galaxy Digital,SOL,Solana,7Sit1UGqgSxEuvjNm99rGeRnpAHwQtEFq4gkwj319sku,,0
 Internal,Galaxy Digital,GRT,Graph Token,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
-Internal,Galaxy Digital,AAVE,Aave Token,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
-Internal,Galaxy Digital,SHIB,SHIBA INU,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
 Internal,Galaxy Digital,DOGE,Doge Coin,DM6a579HRZ8TB4GstY4zdHTyv6swfnQRgM,,0
-Internal,Real USA Legacy,ENJ,Enjin Coin,0xf4FA62dD4E815f12d9c54d7eC32031fB69cC78Cf,,0
-Internal,Real USA Legacy,SHIB,SHIBA INU,0xf4FA62dD4E815f12d9c54d7eC32031fB69cC78Cf,,0
-Internal,Real USA Legacy,DASH,Dash,XrkaMz4W95pEczcrkaaLaXdfvBZednuFKz,,0
-Internal,Real USA Legacy,MKR,Maker,0xf4FA62dD4E815f12d9c54d7eC32031fB69cC78Cf,,0
-Internal,Real USA Legacy,DOGE,Doge Coin,D736EQPxzR5M2DgSAoGMMZuZxYNPtSguzi,,0
-Internal,Real USA Legacy,LTC,Litecoin,ltc1qe0mq9exx5m9w452mr3umjx2u6fgkg78q899y3c,,0
-Internal,Real USA Legacy,ETC,Ethereum Classic,0xBb1b9e9f49A2F8E91f59b807d4540c95D216B518,,0
-Internal,Real USA Legacy,BCH,Bitcoin Cash,qpjstya8fnuqeut6np7gpsffpqyedch77gmnx5urh2,,0.00002735
-Internal,Real USA Legacy,ALGO,Algorand,A47T2R3NY2T4Q77YLS3FT3UO3IG6IC6STV5P4RGRGBDLMLTMQSKILGXCRA,0,0.1
-Internal,Real USA Legacy,EOS,EOS,5qtd3o1pyehn,0,827941.697
-Internal,Real USA Legacy,SAND,SAND,0xf4FA62dD4E815f12d9c54d7eC32031fB69cC78Cf,,0
-Internal,Real USA Legacy,XTZ,Tezos,tz1YcPeYRgjqQTTZkxoW49JGmYxVB1xKufvC,,0
-Internal,Real USA Legacy,CELO,Celo,0x981Ea2A1843166bD9b1983C63eb715b393e38218,,0
-Internal,Real USA Legacy,COMP,Compound Token,0xf4FA62dD4E815f12d9c54d7eC32031fB69cC78Cf,,0
-Internal,Real USA Legacy,XLM,Stellar,GDNT4UVOCBIBG6YPZFVTN5ZXYOXSNYQVW4MHDQAZ33IY7RUA73NT5UWV,0,1
-Internal,Real USA Legacy,YFI,Yearn Finance,0xf4FA62dD4E815f12d9c54d7eC32031fB69cC78Cf,,0
-Internal,Real USA Legacy,BTC,Bitcoin,bc1q0ljdfg4k8gsrhzj8e78pzcqg7hjna890yfdjj0,,0
-Internal,Real USA Legacy,AAVE,Aave Token,0xf4FA62dD4E815f12d9c54d7eC32031fB69cC78Cf,,0
-Internal,Real USA Legacy,XRP,XRP (Ripple),rp6HVX558QLfHPoFG72TNk1NbUC3Q4uZke,,10.000892
-Internal,Real USA Legacy,ETH,Ethereum,0xf4FA62dD4E815f12d9c54d7eC32031fB69cC78Cf,,0.8860390492504
-Internal,Real USA Legacy,SOL,Solana,8LoWpirHRj8JAdoFzjVcTVDmpJBi4DVMvwTsEscQmQ3t,,0
-Internal,Real USA Legacy,UNI,Uniswap,0xf4FA62dD4E815f12d9c54d7eC32031fB69cC78Cf,,0
-Internal,Real USA Legacy,DOT,Polkadot,12EhDshzQNMHDpM7F48EWZDuEfhd1nnyAE4DdJwc6T7q4oov,,1.9
-Internal,Real USA Legacy,LINK,Chainlink,0xf4FA62dD4E815f12d9c54d7eC32031fB69cC78Cf,,0
-Internal,Real USA Legacy,MANA,Decentraland,0xf4FA62dD4E815f12d9c54d7eC32031fB69cC78Cf,,0
-Internal,Real USA Legacy,BAT,Basic Attn.,0xf4FA62dD4E815f12d9c54d7eC32031fB69cC78Cf,,0
-Internal,Real USA Legacy,MATIC,Matic Token (Ethereum),0xf4FA62dD4E815f12d9c54d7eC32031fB69cC78Cf,,0
-Internal,Bitstamp,MATIC,Matic Token (Ethereum),0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
-Internal,Bitstamp,COMP,Compound Token,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
-Internal,Bitstamp,BTC,Bitcoin,3PDk5XkCQ3ntCENZVn9CLSyTKnTaiTjP3v,,0
+Internal,Galaxy Digital,UNI,Uniswap,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
+Internal,Galaxy Digital,LTC,Litecoin,ltc1q6mf5w5536u4szwyzzp3m0mualenqpwhrja0wvs,,0
+Internal,Galaxy Digital,ADA,ADA (Cardano),addr1q8kah7phxpmjy85drun4fx76gjmdunyy962jr4h0lr84uwj8j45jws00kxenez30h8zhelljwkyr9ll3847wqxcve8cq5xfafp,,0
+Internal,Galaxy Digital,USDT_ERC20,Tether USD (Ethereum),0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
+Internal,Galaxy Digital,YFI,Yearn Finance,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
+Internal,Galaxy Digital,SUSHI,Sushi Token,0xc823D8C687F1B1778b375e39B953Ec88148c4B1F,,0
+Internal,Galaxy Digital,BCH,Bitcoin Cash,bitcoincash:qr0gkmp23m4uyhjuzcakyk5ch63cxtaq9v9ln2yuck,,0
 Internal,Bitstamp,SGB,Songbird,0xf72fef84420c5deb5c9ea0b1b9839e160b7a0009,,0
-Internal,Bitstamp,UNI,Uniswap,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
 Internal,Bitstamp,CRV,Curve DAO Token,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
-Internal,Bitstamp,BCH,Bitcoin Cash,3QwivurwSCJxLgsiUt9rf2v562zZwVFH4H,,0.00002188
-Internal,Bitstamp,YFI,Yearn Finance,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
-Internal,Bitstamp,SAND,SAND,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
-Internal,Bitstamp,AXS,Axie Infinity Shard,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
-Internal,Bitstamp,SUSHI,Sushi Token,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
 Internal,Bitstamp,LTC,Litecoin,MF2RDu8yzeo9fP8Fq2gCi7VpviuFvvZcF8,,0
-Internal,Bitstamp,CHZ,Chiliz (ETH),0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
-Internal,Bitstamp,ETH,Ethereum,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
-Internal,Bitstamp,ENJ,Enjin Coin,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
-Internal,Bitstamp,FET,Fetch,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
 Internal,Bitstamp,GRT,Graph Token,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
-Internal,Bitstamp,SHIB,SHIBA INU,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
-Internal,Bitstamp,DYDX,dYdX,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
-Internal,Bitstamp,LINK,Chainlink,0x7e390331c6200876d4f1ca02a415919ca1b4a4a7,,0
-Internal,Bitstamp,XRP,XRP (Ripple),rDsbeomae4FXwgQTJp9Rs64Qg9vDiTCdBv,33047872,44463491.057704
-Internal,Bitstamp,ZRX,0x,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
+Internal,Bitstamp,ENJ,Enjin Coin,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
+Internal,Bitstamp,COMP,Compound Token,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
+Internal,Bitstamp,SUSHI,Sushi Token,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
 Internal,Bitstamp,AAVE,Aave Token,0x7e390331c6200876d4f1ca02a415919ca1b4a4a7,,0
-Internal,Kraken BVI,DOGE,Doge Coin,D5kv6kANtvKQUREeaNPgDb2eyPWjUnARNa,,0
-Internal,Kraken BVI,LINK,Chainlink,0x1089a8d14af2927d4de46512b9a6c73a4eb2729c,,0
-Internal,Kraken BVI,MANA,Decentraland,0x1089a8d14af2927d4de46512b9a6c73a4eb2729c,,0
-Internal,Kraken BVI,EOS,EOS,krakenkraken,4188371367,2460010.809
-Internal,Kraken BVI,BCH,Bitcoin Cash,bitcoincash:pru0wfccpvm7ep084pnjfn0pvsxdmm7guqu856ya0x,,1.41647053
-Internal,Kraken BVI,ZEC,ZCash,t1XEXQaS1Uai2S2VJH7RFhvnfPoGBrjrX4F,,0.00523599
-Internal,Kraken BVI,XLM,Stellar,GA5XIGA5C7QTPTWXQHY6MCJRMTRZDOSHR6EFIBNDQTCQHG262N4GGKTM,4229573299,96132460.909837
-Internal,Kraken BVI,LTC,Litecoin,LfefFzFDnGmsQzAcwec3ueaGTFb9YHaPAn,,0
-Internal,Kraken BVI,ETH,Ethereum,0x649Ed714C38A94AE0051ad3A9494807d7eC9A239,,0.00021843675
-Internal,Kraken BVI,SOL,Solana,5B3JqwBZ8qzyyX3wmpRKkdavvf62zzg7E3bvivNE1ydk,,0
-Internal,Kraken BVI,ETC,Ethereum Classic,0x649ed714c38a94ae0051ad3a9494807d7ec9a239,,0.00000374325
-Internal,Kraken BVI,XRP,XRP (Ripple),rLHzPsX6oXkzU2qL12kHCH8G8cnZv1rBJh,609344057,55109953.597949
-Internal,Kraken BVI,DASH,Dash,Xqb6hkwn7Jc9Md9JrFSWe4WJ7G7PUfW6Jc,,0
+Internal,Bitstamp,AXS,Axie Infinity Shard,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
+Internal,Bitstamp,LINK,Chainlink,0x7e390331c6200876d4f1ca02a415919ca1b4a4a7,,0
+Internal,Bitstamp,BCH,Bitcoin Cash,3QwivurwSCJxLgsiUt9rf2v562zZwVFH4H,,0.00002188
+Internal,Bitstamp,MATIC,Matic Token (Ethereum),0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
+Internal,Bitstamp,CHZ,Chiliz (ETH),0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
+Internal,Bitstamp,UNI,Uniswap,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
+Internal,Bitstamp,YFI,Yearn Finance,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
+Internal,Bitstamp,XRP,XRP (Ripple),rDsbeomae4FXwgQTJp9Rs64Qg9vDiTCdBv,33047872,49239584.47978
+Internal,Bitstamp,DYDX,dYdX,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
+Internal,Bitstamp,FET,Fetch,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
+Internal,Bitstamp,ETH,Ethereum,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
+Internal,Bitstamp,SHIB,SHIBA INU,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
+Internal,Bitstamp,BTC,Bitcoin,3PDk5XkCQ3ntCENZVn9CLSyTKnTaiTjP3v,,0
+Internal,Bitstamp,ZRX,0x,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
+Internal,Bitstamp,SAND,SAND,0x7E390331c6200876D4f1Ca02a415919cA1b4a4a7,,0
 Internal,Kraken BVI,ETHW,EthereumPoW,0x1089a8d14af2927d4de46512b9a6c73a4eb2729c,,0
-Internal,Kraken BVI,UNI,Uniswap,0x1089a8d14af2927d4de46512b9a6c73a4eb2729c,,0
+Internal,Kraken BVI,EOS,EOS,krakenkraken,4188371367,1285321.059
+Internal,Kraken BVI,XRP,XRP (Ripple),rLHzPsX6oXkzU2qL12kHCH8G8cnZv1rBJh,609344057,36885449.294052
+Internal,Kraken BVI,BAT,Basic Attn.,0x1089a8d14af2927d4de46512b9a6c73a4eb2729c,,0
+Internal,Kraken BVI,ALGO,Algorand,UGDV2ZBWNZ2V7AOMLBTAGGVL3ALT5VLXCP5OKPC35F2JLDFHNGH3LQOMGQ,,0
+Internal,Kraken BVI,ETC,Ethereum Classic,0x649ed714c38a94ae0051ad3a9494807d7ec9a239,,0.00000374325
+Internal,Kraken BVI,DOGE,Doge Coin,D5kv6kANtvKQUREeaNPgDb2eyPWjUnARNa,,0
+Internal,Kraken BVI,SHIB,SHIBA INU,0x1089a8d14af2927d4de46512b9a6c73a4eb2729c,,0
 Internal,Kraken BVI,BTC,Bitcoin,32w93hyXjswyTCxaQ5CnUoV2LKh7ExVofh,,0
+Internal,Kraken BVI,MANA,Decentraland,0x1089a8d14af2927d4de46512b9a6c73a4eb2729c,,0
+Internal,Kraken BVI,MATIC,Matic Token (Ethereum),0x1089a8d14af2927d4de46512b9a6c73a4eb2729c,,0
 Internal,Kraken BVI,ADA,ADA (Cardano),DdzFFzCqrhsnAuoQsQ5AAaJUCgxepkzz3LFY5LkNm5zcgR9vKKoTutRyw34HJdbJP7ureKXnFGVx3pJZMUAxKJxtut5fndaVNmJbWsPU,,0
-Internal,Wintermute Trading,SHIB,SHIBA INU,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,SAND,SAND,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Kraken BVI,DASH,Dash,Xqb6hkwn7Jc9Md9JrFSWe4WJ7G7PUfW6Jc,,0
+Internal,Kraken BVI,UNI,Uniswap,0x1089a8d14af2927d4de46512b9a6c73a4eb2729c,,0
+Internal,Kraken BVI,XLM,Stellar,GA5XIGA5C7QTPTWXQHY6MCJRMTRZDOSHR6EFIBNDQTCQHG262N4GGKTM,4229573299,91888399.3931439
+Internal,Kraken BVI,BCH,Bitcoin Cash,bitcoincash:pru0wfccpvm7ep084pnjfn0pvsxdmm7guqu856ya0x,,1.41647053
+Internal,Kraken BVI,BAND,BandToken,0x1089a8d14af2927d4de46512b9a6c73a4eb2729c,,0
+Internal,Kraken BVI,LTC,Litecoin,LfefFzFDnGmsQzAcwec3ueaGTFb9YHaPAn,,0
+Internal,Kraken BVI,SGB,Songbird,0x649Ed714C38A94AE0051ad3A9494807d7eC9A239,,0.00041899375
+Internal,Kraken BVI,ZEC,ZCash,t1XEXQaS1Uai2S2VJH7RFhvnfPoGBrjrX4F,,0.00523599
+Internal,Kraken BVI,FLR,Flare,0x649ed714c38a94ae0051ad3a9494807d7ec9a239,,0.00035167375
+Internal,Kraken BVI,LINK,Chainlink,0x1089a8d14af2927d4de46512b9a6c73a4eb2729c,,0
+Internal,Kraken BVI,SOL,Solana,5B3JqwBZ8qzyyX3wmpRKkdavvf62zzg7E3bvivNE1ydk,,0
+Internal,Kraken BVI,ETH,Ethereum,0x649Ed714C38A94AE0051ad3A9494807d7eC9A239,,0.00021843675
 Internal,Wintermute Trading,GRT,Graph Token,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,ADA,ADA (Cardano),addr1q8p7hhejuns2xgu3umdqp6dls7736cmlfql70l2ylttvqtrqyn632uqdvwmg3dy0ref2eeeeen3cyn8u2ecye32qz7ks4hzy7r,,0
-Internal,Wintermute Trading,ALGO,Algorand,7ESGGEMKFXEBN335YJQV5KX467V6KK2XSO3CXCC74S27MRAALZY3EW342Y,BAD8CBF0DC35A13EAD87,0
-Internal,Wintermute Trading,XTZ,Tezos,tz1i5UbFCS6RiYUqbEgEYJdGcX8ujzVnZuDJ,,0
-Internal,Wintermute Trading,CRV,Curve DAO Token,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,BAL,Balancer,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,DOGE,Doge Coin,D6gCLBcDNgWpX4SnAA7R9G6T5Pnorze1KP,,0
 Internal,Wintermute Trading,DYDX,dYdX,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,MATIC,Matic Token (Ethereum),0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,CHZ,Chiliz (ETH),0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,LUNA,Terra Classic Luna,terra15afyq2c7jpap063u583jgy2s6wmtk7ppzrzntz,FBF8227220E0C042700E,0
-Internal,Wintermute Trading,BICO,Biconomy Token,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,AAVE,Aave Token,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,LPT,Livepeer Token,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,KNC,Kyber Network Crystal v2,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,ETH,Ethereum,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0.047150337679713856
-Internal,Wintermute Trading,UNI,Uniswap,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
 Internal,Wintermute Trading,SKL,SKALE,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,LINK,Chainlink,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,API3,API3,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,SOL,Solana,7sMiW38oLg5q9SKNoyPaH2Ee1VhpGdMCDrC4Lo4uLBBE,,0.99795072
-Internal,Wintermute Trading,YFI,Yearn Finance,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,BTC,Bitcoin,bc1q9z9zn87tz0xrs7yv299geqtx3ed7q8f9se4xfn,,0
-Internal,Wintermute Trading,SUSHI,Sushi Token,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,QNT,Quant,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,CELO,Celo,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0.0000063
-Internal,Wintermute Trading,AXS,Axie Infinity Shard,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,SNX,Synthetix Network Token,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,5
-Internal,Wintermute Trading,COMP,Compound Token,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,TRX,Tron,TC51LZ6uWJeAf9kNp5NmtaPSAE18zzfJCL,,20.935728
-Internal,Wintermute Trading,FTT,FTX Token,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,EOS,EOS,3133cinylujs,8cwEk5hx,0.0013
-Internal,Wintermute Trading,DOT,Polkadot,16HgeCJsHaoYUbKjpdximiYdAJgkjHBDoHQH7g4vWHNpESDq,,1.3276644781
-Internal,Wintermute Trading,XRP,XRP (Ripple),rML4MvGtU1LtAFE4FSVJG2yHkhbA3QkJr7,1209730082,10
-Internal,Wintermute Trading,BAT,Basic Attn.,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,ENS2,Ethereum Name Service,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,IMX_ERC20,Immutable X,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,MKR,Maker,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,BAND,BandToken,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,44.43
-Internal,Wintermute Trading,BCH,Bitcoin Cash,1MNv2CGf5zqU56ymyiVq1EG3j46dAcn4GP,,0
-Internal,Wintermute Trading,REN,Republic,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,MANA,Decentraland,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,HBAR,Hedera Hashgraph,0.0.459039,113187334862965,0.01703192
-Internal,Wintermute Trading,AVAX,Avalanche (C-Chain),0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0.000525
-Internal,Wintermute Trading,APE_ETH,ApeCoin,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
 Internal,Wintermute Trading,ENJ,Enjin Coin,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
-Internal,Wintermute Trading,LTC,Litecoin,ltc1qxvjl5pz2unncwgl63lwf0dqd5m7eps58xt2jxu,,0
+Internal,Wintermute Trading,SAND,SAND,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,BICO,Biconomy Token,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,ALGO,Algorand,7ESGGEMKFXEBN335YJQV5KX467V6KK2XSO3CXCC74S27MRAALZY3EW342Y,BAD8CBF0DC35A13EAD87,0
+Internal,Wintermute Trading,QNT,Quant,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,BTC,Bitcoin,bc1q9z9zn87tz0xrs7yv299geqtx3ed7q8f9se4xfn,,0
+Internal,Wintermute Trading,REN,Republic,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,DOGE,Doge Coin,D6gCLBcDNgWpX4SnAA7R9G6T5Pnorze1KP,,0
+Internal,Wintermute Trading,AXS,Axie Infinity Shard,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,BAT,Basic Attn.,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,SNX,Synthetix Network Token,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,HBAR,Hedera Hashgraph,0.0.459039,113187334862965,0.01774616
+Internal,Wintermute Trading,FTT,FTX Token,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,ADA,ADA (Cardano),addr1q8p7hhejuns2xgu3umdqp6dls7736cmlfql70l2ylttvqtrqyn632uqdvwmg3dy0ref2eeeeen3cyn8u2ecye32qz7ks4hzy7r,,0
+Internal,Wintermute Trading,LINK,Chainlink,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,CHZ,Chiliz (ETH),0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,MATIC,Matic Token (Ethereum),0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,AAVE,Aave Token,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,ETH,Ethereum,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0.022580833738173447
+Internal,Wintermute Trading,IMX_ERC20,Immutable X,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,BCH,Bitcoin Cash,1MNv2CGf5zqU56ymyiVq1EG3j46dAcn4GP,,0
+Internal,Wintermute Trading,LUNA,Terra Classic Luna,terra15afyq2c7jpap063u583jgy2s6wmtk7ppzrzntz,FBF8227220E0C042700E,0
+Internal,Wintermute Trading,AVAX,Avalanche (C-Chain),0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0.19890446385
+Internal,Wintermute Trading,SUSHI,Sushi Token,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,KNC,Kyber Network Crystal v2,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,XRP,XRP (Ripple),rML4MvGtU1LtAFE4FSVJG2yHkhbA3QkJr7,1209730082,10
+Internal,Wintermute Trading,TRX,Tron,TC51LZ6uWJeAf9kNp5NmtaPSAE18zzfJCL,,54.735048
+Internal,Wintermute Trading,UNI,Uniswap,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,API3,API3,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,CELO,Celo,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0.0000063
+Internal,Wintermute Trading,SOL,Solana,7sMiW38oLg5q9SKNoyPaH2Ee1VhpGdMCDrC4Lo4uLBBE,,0.99999
+Internal,Wintermute Trading,COMP,Compound Token,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
 Internal,Wintermute Trading,1INCH,1INCH Token,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,MANA,Decentraland,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,CRV,Curve DAO Token,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,XTZ,Tezos,tz1i5UbFCS6RiYUqbEgEYJdGcX8ujzVnZuDJ,,0
+Internal,Wintermute Trading,SHIB,SHIBA INU,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,EOS,EOS,3133cinylujs,8cwEk5hx,0.0013
+Internal,Wintermute Trading,LTC,Litecoin,ltc1qxvjl5pz2unncwgl63lwf0dqd5m7eps58xt2jxu,,0
 Internal,Wintermute Trading,XLM,Stellar,GAIKNDMZ55GAYIIJAPFEW6F2BON3LX3LYIKPNTHVKTR55Y6KXOVERMAX,505302287,1.0345845
-Internal,Blockfi,BCH,Bitcoin Cash,qp2kjxvtsjv57ekd98c8wjh78u6smskq05v3zjvzlk,,0
-Internal,Blockfi,XTZ,Tezos,tz1gqdR1ZXwVqUYPg88sZocoJyunzAqeiVsA,,0.06425
-Internal,Blockfi,ZEC,ZCash,t1YbTJv5K7mWteQus8sLCrZgpo58arRV8YL,,0
-Internal,Blockfi,BTC,Bitcoin,1KfZhAXbk7ghcZ3kL9TBBvoDdDAKwUdCDQ,,0
-Internal,Blockfi,EOS,EOS,cx2z1v1q3vjc,2GEWEwHHn,0
-Internal,Blockfi,ETC,Ethereum Classic,0xC14311b1d5aceB3aEE76420E7545E005837320bE,,0
-Internal,Blockfi,LTC,Litecoin,LXHMQ8m7d3GsVpJ2azaRSaiBhVhkrU6ASw,,0
-Internal,Blockfi,ETH,Ethereum,0xea759CE774EeF49a260B95CFa44893Cf7A561117,,0.000465279818787
-Internal,Blockfi,DASH,Dash,Xb2oDnnkNb3tLstseWVW17XiypUgBs6kJX,,0.000993
-Internal,Bitgo Redeem,XLM,Stellar,GDCRCVVDNVWNVLCYUZ24JGF27DVLIT6X7NOJNRAMV3PCT37GLNHURN7V,0,1784165.4714133
+Internal,Wintermute Trading,DOT,Polkadot,16HgeCJsHaoYUbKjpdximiYdAJgkjHBDoHQH7g4vWHNpESDq,,1.001
+Internal,Wintermute Trading,ENS2,Ethereum Name Service,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,YFI,Yearn Finance,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,BAL,Balancer,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,LPT,Livepeer Token,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,BAND,BandToken,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,44.43
+Internal,Wintermute Trading,MKR,Maker,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
+Internal,Wintermute Trading,APE_ETH,ApeCoin,0xDbefB887662Ca19CD485381F3386fe5F8537B910,,0
 Internal,Bitgo Redeem,EOS,EOS,aimmnh3myhwc,0,349.9527
-Internal,Bitgo Redeem,ETH,Ethereum,0x4e0a22606a1abaa857ec4958ae9b0b38451dff4a,,613.637020090000000015
-Internal,Bitgo Redeem,BCH,Bitcoin Cash,bitcoincash:pz6fnfsxj30cs77wn7qlg5hg4npxzw0ytu29egthr7,,995.69648672
-Internal,Bitgo Redeem,BTC,Bitcoin,339kMy4j9nMS2jhomBeDZCwfVoB9CKqFyY,,23.43966768
-Internal,Bitgo Redeem,XRP,XRP (Ripple),rsdvR9WZzKszBogBJrpLPE64WWyEW4ffzS,2,596913.495176
-Internal,Bitgo Redeem,LTC,Litecoin,MUsArMLPrZT7AGEMgiwDtgo7v5X4KbQ9wz,,1619.14868216
-Internal,Bitgo Redeem,TRX,Tron,TFjXhpnHdZTCzcZWad7qMM8FTcsuDs6eq8,,4392069.012353
+Internal,Bitgo Redeem,XRP,XRP (Ripple),rsdvR9WZzKszBogBJrpLPE64WWyEW4ffzS,2,1261574.979367
+Internal,Bitgo Redeem,TRX,Tron,TFjXhpnHdZTCzcZWad7qMM8FTcsuDs6eq8,,4293382.821362
+Internal,Bitgo Redeem,BCH,Bitcoin Cash,bitcoincash:pz6fnfsxj30cs77wn7qlg5hg4npxzw0ytu29egthr7,,1111.81168889
+Internal,Bitgo Redeem,ETH,Ethereum,0x4e0a22606a1abaa857ec4958ae9b0b38451dff4a,,358.169374090000000015
+Internal,Bitgo Redeem,XLM,Stellar,GDCRCVVDNVWNVLCYUZ24JGF27DVLIT6X7NOJNRAMV3PCT37GLNHURN7V,0,2947368.0940607
+Internal,Bitgo Redeem,BTC,Bitcoin,339kMy4j9nMS2jhomBeDZCwfVoB9CKqFyY,,62.1044842
+Internal,Bitgo Redeem,LTC,Litecoin,MUsArMLPrZT7AGEMgiwDtgo7v5X4KbQ9wz,,2160.75751215
+Internal,FCA,ADA,ADA (Cardano),addr1q9t579y0rlantr52t3ljkzcz2anfwxcphnky3y0xq4gd6eatkrr62zdh8mfkst6r4y4gwz9zc7lcemj406yfnem58rsq4gwlw0,,0
 Internal,FCA,TRX,Tron,TXr2xLGGyeVatTWMKo8XCbZx2s9sUmFh78,,0.000006
-Internal,FCA,ADA,ADA (Cardano),addr1q9t579y0rlantr52t3ljkzcz2anfwxcphnky3y0xq4gd6eatkrr62zdh8mfkst6r4y4gwz9zc7lcemj406yfnem58rsq4gwlw0,,200000
-Internal,Bitgo Simplex,XLM,Stellar,GA6USVEJMP4IQZNF2HNDXSARO4QWYMGZ3L2MICJ4G7EYM2AUD5MTIWJJ,0,99.9996717
-Internal,Bitgo Simplex,ETH,Ethereum,0xdf11450b5cfa5d301209ff482d5949ac4a1266fe,,0.07168473194383985
-Internal,Bitgo Simplex,LTC,Litecoin,MWtF4TYaCkR7Pz2fz4ZmgEM4pNVqTetJJD,,0.98956492
-Internal,Bitgo Simplex,EOS,EOS,rlzdriofjpk5,0,0
-Internal,Bitgo Simplex,BTC,Bitcoin,38w4dPuGyVp6csSYwmApy7x2qFSH5BgxLN,,0.00813232
-Internal,Bitgo Simplex,BCH,Bitcoin Cash,pqwrz7rhsvxqzn8xqgp6a05ghlf4jr6kxyeyr7vz46,,0.11005041
-Internal,Bitgo Simplex,XRP,XRP (Ripple),rpDzK2XLJPfhH3fdg4s8T33R5Zi47fyNk3,0,99.99987
-Internal,Kraken,ZEC,ZCash,t1LWh4kDXWX9Nsv86dnQpNMMtPzPnThgsKu,,0
-Internal,Kraken,SNX,Synthetix Network Token,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,SAND,SAND,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,DOT,Polkadot,12nHKuSNCpAc5crAfaHS8rFg1KhczHbSn74UF5eLeSGxFy1u,,0
-Internal,Kraken,BCH,Bitcoin Cash,bitcoincash:pzr9ch74kwjzff09pd76ghhr7mshs6mhs54w943p37,,0
-Internal,Kraken,UMA,UMA Voting Token v1,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,AAVE,Aave Token,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,BAT,Basic Attn.,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,CRV,Curve DAO Token,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,ADA,ADA (Cardano),DdzFFzCqrhsxGfbdLLWgNf65tghrVjxX9Pja38Vrza4iZK6dxe5dBpseyeNrrHr8wmgzDnAR9exabuDRxhx9RTEe2vX9DDTN2g62uvBA,,0
-Internal,Kraken,LRC,Loopring,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,LINK,Chainlink,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,ENS2,Ethereum Name Service,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,BAL,Balancer,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,MKR,Maker,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,ALGO,Algorand,DXBSANUAAGHY7D6EYLLNEU6MPJ7UGYW7XUM3ZFL7J4ICU4GMKI7WR5UOOE,0,0
-Internal,Kraken,LPT,Livepeer Token,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,SOL_SRM_R62M,Serum (Solana),GEopDJp97HCTox9XrFBsWBnwmFihtBxURL1Y9BwewBg,,0
-Internal,Kraken,REN,Republic,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,COMP,Compound Token,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,SUSHI,Sushi Token,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,BTC,Bitcoin,3LRnBPH99guSJENoRSmBvTfMeWZdBobSbc,,0
-Internal,Kraken,ETHW,EthereumPoW,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,AXS,Axie Infinity Shard,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
 Internal,Kraken,MATIC,Matic Token (Ethereum),0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,CTSI,Cartesi Token,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,DYDX,dYdX,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,STORJ,Storj,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,SOL,Solana,GEopDJp97HCTox9XrFBsWBnwmFihtBxURL1Y9BwewBg,,0
-Internal,Kraken,XRP,XRP (Ripple),rLHzPsX6oXkzU2qL12kHCH8G8cnZv1rBJh,1301630001,55109953.597949
-Internal,Kraken,CHZ,Chiliz (ETH),0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,ENJ,Enjin Coin,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,ETH,Ethereum,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,LUNA,Terra Classic Luna,terra1cx6u3afw255axtqlr30r8f4czen8j4wlrlnas4,0,0
-Internal,Kraken,1INCH,1INCH Token,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,ZRX,0x,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,XTZ,Tezos,tz1ifzgBYr9BM12jY2BaQERy2uNVy1DGRBcJ,,0.000001
 Internal,Kraken,BICO,Biconomy Token,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,LTC,Litecoin,Lci629DCFYr1tVgM6C35W5dqDsDBsXcVTs,,0
-Internal,Kraken,EOS,EOS,krakenkraken,3453884724,2459970.7682
-Internal,Kraken,DOGE,Doge Coin,D8sPiW9L464gttgJhQpoC2gz3VUWdYBuQS,,0
-Internal,Kraken,APE_ETH,ApeCoin,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,BNT,Bancor,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,USDT_ERC20,Tether USD (Ethereum),0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,ANKR,Ankr Network,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
 Internal,Kraken,ALICE,ALICE,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,YFI,Yearn Finance,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,MANA,Decentraland,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,KNC,Kyber Network Crystal v2,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,DASH,Dash,XinWY9LhuPhXRdaLdpShKCDKtiwvB8PBCG,,0
-Internal,Kraken,UNI,Uniswap,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,FTM_FANTOM,Fantom,0xa2630eb8e77f65a929a44696df609057016e43eb,,0
-Internal,Kraken,XLM,Stellar,GA5XIGA5C7QTPTWXQHY6MCJRMTRZDOSHR6EFIBNDQTCQHG262N4GGKTM,2513911863,96132460.909837
-Internal,Kraken,IMX_ERC20,Immutable X,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,TRX,Tron,TDySSoy2rLJX5Koe9bwFy4bGSvugjTprgg,,0.0002
+Internal,Kraken,UMA,UMA Voting Token v1,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,SOL,Solana,GEopDJp97HCTox9XrFBsWBnwmFihtBxURL1Y9BwewBg,,0
 Internal,Kraken,SGB,Songbird,0xc8647334db1ab5ee1f81a3667e47c8a1abea40f0,,0.00041899375
-Internal,Kraken,OGN,OriginToken,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,XTZ,Tezos,tz1ifzgBYr9BM12jY2BaQERy2uNVy1DGRBcJ,,0.000001
+Internal,Kraken,LRC,Loopring,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,ZEC,ZCash,t1LWh4kDXWX9Nsv86dnQpNMMtPzPnThgsKu,,0
+Internal,Kraken,DYDX,dYdX,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,LUNA,Terra Classic Luna,terra1cx6u3afw255axtqlr30r8f4czen8j4wlrlnas4,0,0
+Internal,Kraken,BTC,Bitcoin,3LRnBPH99guSJENoRSmBvTfMeWZdBobSbc,,0
+Internal,Kraken,BAT,Basic Attn.,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,ANKR,Ankr Network,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
 Internal,Kraken,SHIB,SHIBA INU,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Kraken,TRX,Tron,TDySSoy2rLJX5Koe9bwFy4bGSvugjTprgg,,0.000088
+Internal,Kraken,CRV,Curve DAO Token,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,APE_ETH,ApeCoin,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,ETHW,EthereumPoW,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,XRP,XRP (Ripple),rLHzPsX6oXkzU2qL12kHCH8G8cnZv1rBJh,1301630001,36885129.153142
+Internal,Kraken,1INCH,1INCH Token,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,COMP,Compound Token,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,SNX,Synthetix Network Token,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,LINK,Chainlink,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,FTM_FANTOM,Fantom,0xa2630eb8e77f65a929a44696df609057016e43eb,,0
+Internal,Kraken,SUSHI,Sushi Token,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,ALGO,Algorand,DXBSANUAAGHY7D6EYLLNEU6MPJ7UGYW7XUM3ZFL7J4ICU4GMKI7WR5UOOE,0,0
+Internal,Kraken,IMX_ERC20,Immutable X,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,ENJ,Enjin Coin,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,BNT,Bancor,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,LPT,Livepeer Token,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,EOS,EOS,krakenkraken,3453884724,1285321.059
+Internal,Kraken,USDT_ERC20,Tether USD (Ethereum),0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
 Internal,Kraken,ETC,Ethereum Classic,0xC8647334db1AB5ee1f81a3667e47c8a1AbeA40F0,,0.00010316825
+Internal,Kraken,MANA,Decentraland,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,MKR,Maker,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,XLM,Stellar,GA5XIGA5C7QTPTWXQHY6MCJRMTRZDOSHR6EFIBNDQTCQHG262N4GGKTM,2513911863,91888399.3931439
+Internal,Kraken,AXS,Axie Infinity Shard,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,ADA,ADA (Cardano),addr1q80ghnrwd4zf9ra7jlqzp4nnjacjam0vv78t0rpx4d358x0rzr27g03klu862usxqsru794d03gzkk8n86ta34n85z0s2rq96j,,0
+Internal,Kraken,YFI,Yearn Finance,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,ENS2,Ethereum Name Service,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,OGN,OriginToken,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,REN,Republic,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
 Internal,Kraken,GRT,Graph Token,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
-Internal,Real Germany GK8,REN,Republic,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
-Internal,Real Germany GK8,ALICE,ALICE,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
-Internal,Real Germany GK8,COMP,Compound Token,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,1.418
-Internal,Real Germany GK8,1INCH,1INCH Token,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,5.8
-Internal,Real Germany GK8,AMP,Amp,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
-Internal,Real Germany GK8,FTT,FTX Token,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
-Internal,Real Germany GK8,BTC,Bitcoin,3JsY8m7nG2K2siHXzqto612u36hAzF7C6X,,6376.59841461
-Internal,Real Germany GK8,XLM,Stellar,GDNCMZSXST5YN6QDOEI2WV7FZSTC2UUXSK3IIMBZ4JAZG3VXEMR2NGK7,0,46945257.41604
+Internal,Kraken,UNI,Uniswap,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,DOGE,Doge Coin,DDV6R5dsBtKytjZbchyaB9mAYWBuXBSHTs,,0
+Internal,Kraken,SAND,SAND,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,FLR,Flare,0xc8647334db1ab5ee1f81a3667e47c8a1abea40f0,,0
+Internal,Kraken,CHZ,Chiliz (ETH),0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,DOT,Polkadot,12nHKuSNCpAc5crAfaHS8rFg1KhczHbSn74UF5eLeSGxFy1u,,0
+Internal,Kraken,ZRX,0x,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,DASH,Dash,XinWY9LhuPhXRdaLdpShKCDKtiwvB8PBCG,,0
+Internal,Kraken,ETH,Ethereum,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,LTC,Litecoin,LhswRZNZXJe8jpnNaLb8xee1Q1Knia6QKf,,0
+Internal,Kraken,KNC,Kyber Network Crystal v2,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,BCH,Bitcoin Cash,bitcoincash:pzr9ch74kwjzff09pd76ghhr7mshs6mhs54w943p37,,0
+Internal,Kraken,AAVE,Aave Token,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,BAL,Balancer,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,SOL_SRM_R62M,Serum (Solana),GEopDJp97HCTox9XrFBsWBnwmFihtBxURL1Y9BwewBg,,0
+Internal,Kraken,STORJ,Storj,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Kraken,CTSI,Cartesi Token,0x3e855e15f81b568b37cae006e3b8ba6eb376eb40,,0
+Internal,Real Germany GK8,COMP,Compound Token,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
 Internal,Real Germany GK8,LRC,Loopring,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
-Internal,Real Germany GK8,MATIC,Matic Token (Ethereum),0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,3625211.44
-Internal,Real Germany GK8,BCH,Bitcoin Cash,qrxdclqjhwvtq29n0wpzhl4aewraq3xssqrpz82uvv,,7551.98185567
+Internal,Real Germany GK8,CHZ,Chiliz (ETH),0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
 Internal,Real Germany GK8,BICO,Biconomy Token,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
-Internal,Real Germany GK8,ENS2,Ethereum Name Service,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
-Internal,Real Germany GK8,FTM,Fantom Token (ERC20),0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
-Internal,Real Germany GK8,AXS,Axie Infinity Shard,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
-Internal,Real Germany GK8,ZRX,0x,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,20000
-Internal,Real Germany GK8,XRP,XRP (Ripple),rE57nxcDQscTokV25GAYcXzKi3tqfGzut9,,126296555.548093
-Internal,Real Germany GK8,CRV,Curve DAO Token,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,2
-Internal,Real Germany GK8,ETH,Ethereum,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,62251.12430289831871943
-Internal,Real Germany GK8,XTZ,Tezos,tz1ihoU4ArUVNwGkkGGjRRKPpX6ruANR3UTo,,1325212.569155
-Internal,Real Germany GK8,SNX,Synthetix Network Token,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
-Internal,Real Germany GK8,ANKR,Ankr Network,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
-Internal,Real Germany GK8,OGN,OriginToken,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
-Internal,Real Germany GK8,STORJ,Storj,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
 Internal,Real Germany GK8,GALA,Gala,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
-Internal,Real Germany GK8,CHZ,Chiliz (ETH),0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,10
-Internal,Real Germany GK8,QNT,Quant,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0.37
-Internal,Real Germany GK8,MANA,Decentraland,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,2240184
-Internal,Real Germany GK8,UMA,UMA Voting Token v1,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
-Internal,Real Germany GK8,DYDX,dYdX,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
-Internal,Real Germany GK8,SHIB,SHIBA INU,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,606357106247.00000005
-Internal,Real Germany GK8,CRO,Crypto.com,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
+Internal,Real Germany GK8,MATIC,Matic Token (Ethereum),0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0.44
+Internal,Real Germany GK8,1INCH,1INCH Token,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
+Internal,Real Germany GK8,ZRX,0x,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
+Internal,Real Germany GK8,OGN,OriginToken,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
+Internal,Real Germany GK8,ETH,Ethereum,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0.016903852143624564
 Internal,Real Germany GK8,APE_ETH,ApeCoin,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
-Internal,Bitgo Funding (eToroX),XLM,Stellar,GBSJS7MVGYYOTMXSD75KASMWCSBLYSTHOGFUIQVTCF55YRUPGRSVIOJ2,0,0
-Internal,Bitgo Funding (eToroX),ETH,Ethereum,0x5be786ad38f5846f605a8003550074cdfd4899a1,,0.229595
+Internal,Real Germany GK8,STORJ,Storj,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
+Internal,Real Germany GK8,CRO,Crypto.com,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
+Internal,Real Germany GK8,UMA,UMA Voting Token v1,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
+Internal,Real Germany GK8,QNT,Quant,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
+Internal,Real Germany GK8,ANKR,Ankr Network,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
+Internal,Real Germany GK8,SNX,Synthetix Network Token,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
+Internal,Real Germany GK8,XTZ,Tezos,tz1ihoU4ArUVNwGkkGGjRRKPpX6ruANR3UTo,,1325092.568415
+Internal,Real Germany GK8,BCH,Bitcoin Cash,qrxdclqjhwvtq29n0wpzhl4aewraq3xssqrpz82uvv,,7551.48184205
+Internal,Real Germany GK8,DYDX,dYdX,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
+Internal,Real Germany GK8,AXS,Axie Infinity Shard,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
+Internal,Real Germany GK8,SHIB,SHIBA INU,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0.00000005
+Internal,Real Germany GK8,ALICE,ALICE,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
+Internal,Real Germany GK8,BTC,Bitcoin,3JsY8m7nG2K2siHXzqto612u36hAzF7C6X,,6376.56784936
+Internal,Real Germany GK8,CRV,Curve DAO Token,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
+Internal,Real Germany GK8,MANA,Decentraland,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
+Internal,Real Germany GK8,AMP,Amp,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
+Internal,Real Germany GK8,XRP,XRP (Ripple),rE57nxcDQscTokV25GAYcXzKi3tqfGzut9,,126296505.548073
+Internal,Real Germany GK8,FTM,Fantom Token (ERC20),0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
+Internal,Real Germany GK8,FTT,FTX Token,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
+Internal,Real Germany GK8,XLM,Stellar,GDNCMZSXST5YN6QDOEI2WV7FZSTC2UUXSK3IIMBZ4JAZG3VXEMR2NGK7,0,46944807.41603
+Internal,Real Germany GK8,ENS2,Ethereum Name Service,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
+Internal,Real Germany GK8,REN,Republic,0xd40e8ceE01A147f0a24524D725eF1F0297BA6B06,,0
 Internal,Bitgo Funding (eToroX),BCH,Bitcoin Cash,36eLrmVpt16Q7HcktWBuUB9sHaSZm7epA4,,0
 Internal,Bitgo Funding (eToroX),BTC,Bitcoin,3ENhxrVV6u2pDuNib7yLsEq3C4t11xVLEA,,0.0499716
 Internal,Bitgo Funding (eToroX),XRP,XRP (Ripple),r3DrD2d8TahPmmVmf3ptQrPV555KCRuZv3,0,44.9775
-Internal,Bitgo Funding (eToroX),EOS,EOS,hpkfds4apy2j,0,0
+Internal,Bitgo Funding (eToroX),XLM,Stellar,GBSJS7MVGYYOTMXSD75KASMWCSBLYSTHOGFUIQVTCF55YRUPGRSVIOJ2,0,0
 Internal,Bitgo Funding (eToroX),LTC,Litecoin,MLEJ2zbSpx2sFRuAVTCoPGRR2fKqGNAWQR,,0
-Internal,Bitgo Conversion (eToroX),BTC,Bitcoin,3MrvPSmfaEwbobJX3Z1gmDhgmr6Z4rJQ7e,,2.0822001
-Internal,Bitgo Conversion (eToroX),BCH,Bitcoin Cash,3D5jzHq452b8FLZQRr4K4oVt2GZCDcj7AW,,693.11090618
-Internal,Bitgo Conversion (eToroX),XLM,Stellar,GDBNXDNP6RWXLB2SXGJH6F3RXSPTHOWVFXK7UQXHC3VYIZZM6NG46QUA,0,1181289.7577918
-Internal,Bitgo Conversion (eToroX),XRP,XRP (Ripple),rJaqSdbpudDmPW9Er9qK45XFmnUpqzCQ7f,0,385954.809129
-Internal,Bitgo Conversion (eToroX),LTC,Litecoin,MUVCJZo87z2KSYHRmptK9xnXds53XZwHdr,,366.37173322
+Internal,Bitgo Funding (eToroX),EOS,EOS,hpkfds4apy2j,0,0
+Internal,Bitgo Funding (eToroX),ETH,Ethereum,0x5be786ad38f5846f605a8003550074cdfd4899a1,,0.229595
+Internal,Bitgo Conversion (eToroX),BTC,Bitcoin,3MrvPSmfaEwbobJX3Z1gmDhgmr6Z4rJQ7e,,2.03057368
 Internal,Bitgo Conversion (eToroX),EOS,EOS,mtbewp4pxouh,0,568.9568
-Internal,Bitgo Conversion (eToroX),ETH,Ethereum,0x6e36c2a0aa630932762e25e4ef2999471a2169b1,,296.163137107322299299
-Internal,Blockfi Lending,AVAX,Avalanche (C-Chain),0xA1E4838E9B1317B84321fa40ed6F03A4Ea75bD01,,0.000525
-Internal,Blockfi Lending,BTC,Bitcoin,18rRL98eQLn1SzzE1cr1u8UkY6PWvZyHLm,,0
-Internal,NFT,ETH,Ethereum,0xF142D7bAFF0986B50ae24e694419C65e7091f52c,,3.843167207804239533
+Internal,Bitgo Conversion (eToroX),XLM,Stellar,GDBNXDNP6RWXLB2SXGJH6F3RXSPTHOWVFXK7UQXHC3VYIZZM6NG46QUA,0,1262647.5919818
+Internal,Bitgo Conversion (eToroX),XRP,XRP (Ripple),rJaqSdbpudDmPW9Er9qK45XFmnUpqzCQ7f,0,400985.247438
+Internal,Bitgo Conversion (eToroX),LTC,Litecoin,MUVCJZo87z2KSYHRmptK9xnXds53XZwHdr,,684.74511517
+Internal,Bitgo Conversion (eToroX),ETH,Ethereum,0x6e36c2a0aa630932762e25e4ef2999471a2169b1,,289.265288619319581634
+Internal,Bitgo Conversion (eToroX),BCH,Bitcoin Cash,3D5jzHq452b8FLZQRr4K4oVt2GZCDcj7AW,,804.96669214
 Internal,NFT,APE_ETH,ApeCoin,0xF142D7bAFF0986B50ae24e694419C65e7091f52c,,44986
-Internal,Binance,LTC,Litecoin,LSsCx4N41Yros9rV7vR3JaWoK4389q5uYw,,0
-Internal,Binance,SAND,SAND,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,FET,Fetch,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,APE_ETH,ApeCoin,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,ALICE,ALICE,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,NFT,ETH,Ethereum,0xF142D7bAFF0986B50ae24e694419C65e7091f52c,,2.842785100337509948
+Internal,Binance,CELO,Celo,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,XTZ,Tezos,tz1d3dmTdWyXshSPjZdxomE9vj6VNNHqTUKT,,0.002
+Internal,Binance,BNT,Bancor,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,FTM_FANTOM,Fantom,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,6
 Internal,Binance,REN,Republic,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,HBAR,Hedera Hashgraph,0.0.16952,1036838632,66396.07657176
-Internal,Binance,SHIB,SHIBA INU,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,LUNA,Terra Classic Luna,terra1ncjg4a59x2pgvqy9qjyqprlj8lrwshm0wleht5,101958543,176804545.219298
-Internal,Binance,DOGE,Doge Coin,DBR9CdaYYLK6pBo3PzM5PBZjWDmApagPyG,,0
-Internal,Binance,ENS2,Ethereum Name Service,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,GRT,Graph Token,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,ATOM_COS,Cosmos Hub,cosmos1j8pp7zvcu9z8vd882m284j29fn2dszh05cqvf9,105055094,3381.830543
-Internal,Binance,BICO,Biconomy Token,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,SOL_SRM_R62M,Serum (Solana),HxZ9HxnUdVFBvJ4kGT8UeritJoniFqGu9mLnc8nTCG55,,9.995
-Internal,Binance,IMX_ERC20,Immutable X,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,ZRX,0x,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,SNX,Synthetix Network Token,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,OGN,OriginToken,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,AAVE,Aave Token,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
 Internal,Binance,BAND,BandToken,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,ADA,ADA (Cardano),DdzFFzCqrht851vVyCiik74QPpjWgDdQ6yy5wmWGhUXSqF7bj6edWcTAcf4QALUNXgej5ztn8pTB4sUJXbPkiLseKBbEDXYXLsJDiSeZ,,0
-Internal,Binance,UMA,UMA Voting Token v1,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,LRC,Loopring,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,BCH,Bitcoin Cash,qryjz4kyrwnk5m5fqqp7jjw5xveafh9p653zxd56s6,,0
-Internal,Binance,TRX,Tron,TET2SC3iicAnY8TzziWTKYugLQZTZev8bB,,20
-Internal,Binance,KNC,Kyber Network Crystal v2,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,MATIC,Matic Token (Ethereum),0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,DYDX,dYdX,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,OGN,OriginToken,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,SOL_SRM_R62M,Serum (Solana),HxZ9HxnUdVFBvJ4kGT8UeritJoniFqGu9mLnc8nTCG55,,9.995
+Internal,Binance,SOL,Solana,HxZ9HxnUdVFBvJ4kGT8UeritJoniFqGu9mLnc8nTCG55,,0.009995
 Internal,Binance,BAL,Balancer,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
 Internal,Binance,LINK,Chainlink,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,ETH,Ethereum,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0.025809501979195946
-Internal,Binance,DASH,Dash,Xjo7Kn4eGYJMSvs8rTfL5xzz5pC588bvF2,,0
+Internal,Binance,LTC,Litecoin,LSsCx4N41Yros9rV7vR3JaWoK4389q5uYw,,0
 Internal,Binance,AMP,Amp,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,XTZ,Tezos,tz1d3dmTdWyXshSPjZdxomE9vj6VNNHqTUKT,,0.002
-Internal,Binance,STORJ,Storj,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,SUSHI,Sushi Token,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,CELO,Celo,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,ZEC,ZCash,t1eGuJXkZwnafnQfjXtRwDdgnhqv38Nj6JH,,0
-Internal,Binance,XRP,XRP (Ripple),rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh,109251296,8126399.728636
-Internal,Binance,API3,API3,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,ETC,Ethereum Classic,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0.000003996
-Internal,Binance,SOL,Solana,HxZ9HxnUdVFBvJ4kGT8UeritJoniFqGu9mLnc8nTCG55,,0.009995
-Internal,Binance,SKL,SKALE,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,AXS,Axie Infinity Shard,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,GMT_SOL,GMT _Solana_,HxZ9HxnUdVFBvJ4kGT8UeritJoniFqGu9mLnc8nTCG55,,0.009995
-Internal,Binance,ALGO,Algorand,Z7XQEV7N3Z4NUUTXZDK7MBIZONZZFWRBRAVR6Z7JLCLDSXNIOVFCSHBB7Y,0,0.399
-Internal,Binance,GALA,Gala,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,MKR,Maker,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,MATIC,Matic Token (Ethereum),0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,ANKR,Ankr Network,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,ENJ,Enjin Coin,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,ATOM_COS,Cosmos Hub,cosmos1j8pp7zvcu9z8vd882m284j29fn2dszh05cqvf9,105055094,1.80278
+Internal,Binance,HBAR,Hedera Hashgraph,0.0.16952,1036838632,0.99834159
 Internal,Binance,MANA,Decentraland,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,GTC_ETH,Gitcoin,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,30
-Internal,Binance,EOS,EOS,binancecleos,100472910,21933.7704
-Internal,Binance,CTSI,Cartesi Token,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,DOT,Polkadot,14d5qrC1CFwHzx1KZ5sg6mjWbMTpNbWab4vue98h6KsUnKoG,,0
-Internal,Binance,LPT,Livepeer Token,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,DYDX,dYdX,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,FTM,Fantom Token (ERC20),0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,COMP,Compound Token,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,1INCH,1INCH Token,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,CHZ,Chiliz (ETH),0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,BAT,Basic Attn.,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,USDT_ERC20,Tether USD (Ethereum),0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,MKR,Maker,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,UMA,UMA Voting Token v1,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
 Internal,Binance,QNT,Quant,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,LUNA2,Terra Luna 2.0,terra1ncjg4a59x2pgvqy9qjyqprlj8lrwshm0wleht5,101958543,5833.768961
-Internal,Binance,CRV,Curve DAO Token,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,YFI,Yearn Finance,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,XLM,Stellar,GAHK7EEG2WWHVKDNT4CEQFZGKF2LGDSW2IVM4S5DP42RBW3K6BTODB4A,1064082071,403289.3752451
-Internal,Binance,BTC,Bitcoin,1KLUkzGX2q1qQESc3aSQQTFtpSLA2P9h51,,0
-Internal,Binance,UNI,Uniswap,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Binance,BNT,Bancor,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,ETH,Ethereum,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0.015047580057086178
+Internal,Binance,LPT,Livepeer Token,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,FTM,Fantom Token (ERC20),0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,APE_ETH,ApeCoin,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,ALICE,ALICE,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,CTSI,Cartesi Token,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
 Internal,Binance,AVAX,Avalanche (C-Chain),0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0.02921235
+Internal,Binance,ADA,ADA (Cardano),DdzFFzCqrht851vVyCiik74QPpjWgDdQ6yy5wmWGhUXSqF7bj6edWcTAcf4QALUNXgej5ztn8pTB4sUJXbPkiLseKBbEDXYXLsJDiSeZ,,0
+Internal,Binance,USDT_ERC20,Tether USD (Ethereum),0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,ZRX,0x,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,ALGO,Algorand,Z7XQEV7N3Z4NUUTXZDK7MBIZONZZFWRBRAVR6Z7JLCLDSXNIOVFCSHBB7Y,0,0.399
+Internal,Binance,LUNA2,Terra Luna 2.0,terra1ncjg4a59x2pgvqy9qjyqprlj8lrwshm0wleht5,101958543,12.837038
+Internal,Binance,ANKR,Ankr Network,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,SHIB,SHIBA INU,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,EOS,EOS,binancecleos,100472910,2513.5207
+Internal,Binance,CRV,Curve DAO Token,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,SUSHI,Sushi Token,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,GMT_SOL,GMT _Solana_,HxZ9HxnUdVFBvJ4kGT8UeritJoniFqGu9mLnc8nTCG55,,0.009995
+Internal,Binance,AXS,Axie Infinity Shard,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,DOT,Polkadot,14d5qrC1CFwHzx1KZ5sg6mjWbMTpNbWab4vue98h6KsUnKoG,,0
+Internal,Binance,CHZ,Chiliz (ETH),0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,ENS2,Ethereum Name Service,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,SAND,SAND,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,SKL,SKALE,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,ZEC,ZCash,t1eGuJXkZwnafnQfjXtRwDdgnhqv38Nj6JH,,0
+Internal,Binance,LUNA,Terra Classic Luna,terra1ncjg4a59x2pgvqy9qjyqprlj8lrwshm0wleht5,101958543,39306510.261413
+Internal,Binance,COMP,Compound Token,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,BAT,Basic Attn.,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,KNC,Kyber Network Crystal v2,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,BICO,Biconomy Token,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,STORJ,Storj,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,XRP,XRP (Ripple),rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh,109251296,11759.606808
+Internal,Binance,IMX_ERC20,Immutable X,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,BCH,Bitcoin Cash,qryjz4kyrwnk5m5fqqp7jjw5xveafh9p653zxd56s6,,0
+Internal,Binance,SNX,Synthetix Network Token,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,XLM,Stellar,GAHK7EEG2WWHVKDNT4CEQFZGKF2LGDSW2IVM4S5DP42RBW3K6BTODB4A,1064082071,7119.4944768
+Internal,Binance,ENJ,Enjin Coin,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,ETC,Ethereum Classic,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0.000003996
+Internal,Binance,AAVE,Aave Token,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
 Internal,Binance,FTT,FTX Token,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
-Internal,Genesis Lending,BCH,Bitcoin Cash,bitcoincash:qqsadqwctc4nyj0pxeyllrrsl930hgqtnyrn0qvkdg,,0
-Internal,Genesis Lending,ETH,Ethereum,0x28ECd048A880d547683c81105051d385Cd65b0ED,,0.108075762867410193
-Internal,Genesis Lending,XTZ,Tezos,tz1Rgt4DuuabJgh2BhmT8uWHSSjgmiAzmnZD,,744535.102497
-Internal,Genesis Lending,BTC,Bitcoin,1C7xLCMwLCpRpzC9jFibLRocxg6B7h1nHv,,0
-Internal,Genesis Lending,SOL,Solana,GFiLJYn7QjG6u9V1gL4SfKtBsjeT43Emy5p1q9FysAGY,,0
-Internal,Genesis Lending,DOT,Polkadot,16VRowCRXq6SPkXxHsQtbSt6XzunQkGHt9VWUCHhC91eUemV,,3033299.3700894848
+Internal,Binance,GALA,Gala,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,GRT,Graph Token,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,TRX,Tron,TET2SC3iicAnY8TzziWTKYugLQZTZev8bB,,20
+Internal,Binance,1INCH,1INCH Token,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,LRC,Loopring,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,BTC,Bitcoin,1KLUkzGX2q1qQESc3aSQQTFtpSLA2P9h51,,0
+Internal,Binance,BNB_BSC,BNB Smart Chain,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0.105895
+Internal,Binance,DASH,Dash,Xjo7Kn4eGYJMSvs8rTfL5xzz5pC588bvF2,,0
+Internal,Binance,UNI,Uniswap,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,API3,API3,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,FET,Fetch,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,YFI,Yearn Finance,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,0
+Internal,Binance,GTC_ETH,Gitcoin,0x2953452df5d7285b9a3a8a1e876a4bacb09a976e,,30
+Internal,Binance,DOGE,Doge Coin,DBR9CdaYYLK6pBo3PzM5PBZjWDmApagPyG,,0
 Internal,Genesis Lending,DOGE,Doge Coin,DR2WdFWdLzQprgpAS19QiUkN2ThjtKjo5t,,0
-Internal,Genesis Lending,AVAX,Avalanche (C-Chain),0x28ECd048A880d547683c81105051d385Cd65b0ED,,0.000525
+Internal,Genesis Lending,DOT,Polkadot,16VRowCRXq6SPkXxHsQtbSt6XzunQkGHt9VWUCHhC91eUemV,,999297.3008167064
+Internal,Genesis Lending,BTC,Bitcoin,1C7xLCMwLCpRpzC9jFibLRocxg6B7h1nHv,,0
+Internal,Genesis Lending,ETH,Ethereum,0x28ECd048A880d547683c81105051d385Cd65b0ED,,0.108075762867410193
+Internal,Genesis Lending,SOL,Solana,GFiLJYn7QjG6u9V1gL4SfKtBsjeT43Emy5p1q9FysAGY,,0
+Internal,Genesis Lending,XTZ,Tezos,tz1Rgt4DuuabJgh2BhmT8uWHSSjgmiAzmnZD,,744535.102497
 Internal,Genesis Lending,ADA,ADA (Cardano),addr1q8fucvn9ck0u7vu9njvhpj6scrvm05twahvdcr4393mk5v39kydkmt07fszgv8s6des9sp9sfdfres094kj9up386mwqg04hlj,,0
-Internal,Genesis Lending,ETC,Ethereum Classic,0x832fb65D9A4a88B1bbf31b12c07800a2D62106A7,,91461.261720561316382592
 Internal,Genesis Lending,EOS,EOS,whenbtcmoon1,2SQZBDB5M,104790.805
-Internal,Bitstamp BVI,ETH,Ethereum,0xf2956211242a33dc6746984050fe699b448ca72d,,0
-Internal,Bitstamp BVI,XRP,XRP (Ripple),rDsbeomae4FXwgQTJp9Rs64Qg9vDiTCdBv,95875269,44848545.480264
+Internal,Genesis Lending,AVAX,Avalanche (C-Chain),0x28ECd048A880d547683c81105051d385Cd65b0ED,,0.000525
+Internal,Genesis Lending,BCH,Bitcoin Cash,bitcoincash:qqsadqwctc4nyj0pxeyllrrsl930hgqtnyrn0qvkdg,,0
+Internal,Genesis Lending,ETC,Ethereum Classic,0x832fb65D9A4a88B1bbf31b12c07800a2D62106A7,,91461.261720561316382592
 Internal,Bitstamp BVI,LINK,Chainlink,0xf2956211242a33dc6746984050fe699b448ca72d,,0
+Internal,Bitstamp BVI,XRP,XRP (Ripple),rDsbeomae4FXwgQTJp9Rs64Qg9vDiTCdBv,95875269,49327715.106201
 Internal,Bitstamp BVI,BCH,Bitcoin Cash,36isvjtiwLG42SzcigWCB465jV5gE88KWL,,0
 Internal,Bitstamp BVI,LTC,Litecoin,MWvikJNWjPJ185X7MM2WywXLch4WpeMWCr,,0
-Internal,Real USA GK8,ANKR,Ankr Network,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,CRV,Curve DAO Token,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,41.51
-Internal,Real USA GK8,IMX_ERC20,Immutable X,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,AAVE,Aave Token,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,STORJ,Storj,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,XRP,XRP (Ripple),r3VPT4BmQBGSv62q9QdwrDNGKXXZzT2aZa,,320.646397
-Internal,Real USA GK8,SHIB,SHIBA INU,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,1271702771149.99999928
-Internal,Real USA GK8,LPT,Livepeer Token,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,CRO,Crypto.com,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,MATIC,Matic Token (Ethereum),0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,2435290.28
-Internal,Real USA GK8,GRT,Graph Token,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,67
-Internal,Real USA GK8,XLM,Stellar,GASKO7E4NOEF3NTHQM53NMHTGWUGHK6MOI34OUICWZUA4N7QRBZ5SR4B,0,35088141.4669701
+Internal,Bitstamp BVI,ETH,Ethereum,0xf2956211242a33dc6746984050fe699b448ca72d,,0
 Internal,Real USA GK8,1INCH,1INCH Token,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,11.54
-Internal,Real USA GK8,YFI,Yearn Finance,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0.01819
-Internal,Real USA GK8,FTT,FTX Token,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,XTZ,Tezos,tz1cryYxbE6mxTMaoCsCQnrfGL1z9q3GbXxp,,1077598.825983
-Internal,Real USA GK8,BTC,Bitcoin,36Q53HzTG8EttuEH53xJ5yLezURn9NziuF,,2353.5998723
-Internal,Real USA GK8,FET,Fetch,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,BCH,Bitcoin Cash,bitcoincash:qqd5ktndm3d4ehrp3d6wlzzuw4mdcl89nvwj9aqptk,,0.09545268
-Internal,Real USA GK8,OGN,OriginToken,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,AXS,Axie Infinity Shard,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0.75
-Internal,Real USA GK8,DYDX,dYdX,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,ALICE,ALICE,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,UMA,UMA Voting Token v1,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,BAL,Balancer,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,ETH,Ethereum,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,27883.298426569959519354
-Internal,Real USA GK8,UNI,Uniswap,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0.94
-Internal,Real USA GK8,APE_ETH,ApeCoin,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,MANA,Decentraland,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,LRC,Loopring,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,REN,Republic,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,QNT,Quant,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0.37
-Internal,Real USA GK8,SAND,SAND,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,4.9
 Internal,Real USA GK8,AMP,Amp,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,SNX,Synthetix Network Token,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,IMX_ERC20,Immutable X,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,DYDX,dYdX,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,UMA,UMA Voting Token v1,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,CRO,Crypto.com,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,XTZ,Tezos,tz1cryYxbE6mxTMaoCsCQnrfGL1z9q3GbXxp,,1077478.825245
+Internal,Real USA GK8,AXS,Axie Infinity Shard,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0.75
+Internal,Real USA GK8,SAND,SAND,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,4.9
+Internal,Real USA GK8,UNI,Uniswap,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0.94
+Internal,Real USA GK8,OGN,OriginToken,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
 Internal,Real USA GK8,API3,API3,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,FTM,Fantom Token (ERC20),0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,GALA,Gala,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,COMP,Compound Token,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0.798
-Internal,Real USA GK8,BNT,Bancor,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,BICO,Biconomy Token,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,CTSI,Cartesi Token,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,ENS2,Ethereum Name Service,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
-Internal,Real USA GK8,ZRX,0x,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,ETH,Ethereum,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,25382.740537070270203354
+Internal,Real USA GK8,APE_ETH,ApeCoin,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,BTC,Bitcoin,36Q53HzTG8EttuEH53xJ5yLezURn9NziuF,,2278.54982022
 Internal,Real USA GK8,SUSHI,Sushi Token,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,3.8
-Internal,Bittrex,LTC,Litecoin,LTcjqmtKhACuAQRk83SHCk9PQxoUFxHy4D,,0
-Internal,Bittrex,UNI,Uniswap,0xabd174a448eaa1dfca88018a362f6772f2b0f45d,,0
-Internal,Bittrex,XRP,XRP (Ripple),rPVMhWBsfF9iMXYj3aAzJVkPDTFNSyWdKy,2047143625,24221781.620815
-Internal,Bittrex,LINK,Chainlink,0xabd174a448eaa1dfca88018a362f6772f2b0f45d,,0
+Internal,Real USA GK8,ZRX,0x,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,LRC,Loopring,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,ALICE,ALICE,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,REN,Republic,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,AAVE,Aave Token,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,SHIB,SHIBA INU,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,1271702771149.99999928
+Internal,Real USA GK8,BAL,Balancer,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,XLM,Stellar,GASKO7E4NOEF3NTHQM53NMHTGWUGHK6MOI34OUICWZUA4N7QRBZ5SR4B,0,35087691.4669601
+Internal,Real USA GK8,BICO,Biconomy Token,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,CRV,Curve DAO Token,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,41.51
+Internal,Real USA GK8,BNT,Bancor,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,MATIC,Matic Token (Ethereum),0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,2435290.28
+Internal,Real USA GK8,ENS2,Ethereum Name Service,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,GALA,Gala,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,FTT,FTX Token,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,QNT,Quant,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0.37
+Internal,Real USA GK8,LPT,Livepeer Token,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,YFI,Yearn Finance,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0.01819
+Internal,Real USA GK8,FET,Fetch,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,COMP,Compound Token,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0.798
+Internal,Real USA GK8,GRT,Graph Token,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,67
+Internal,Real USA GK8,FTM,Fantom Token (ERC20),0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,XRP,XRP (Ripple),r3VPT4BmQBGSv62q9QdwrDNGKXXZzT2aZa,,270.646377
+Internal,Real USA GK8,BCH,Bitcoin Cash,bitcoincash:qqd5ktndm3d4ehrp3d6wlzzuw4mdcl89nvwj9aqptk,,0.09545268
+Internal,Real USA GK8,STORJ,Storj,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,ANKR,Ankr Network,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,SNX,Synthetix Network Token,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,CTSI,Cartesi Token,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
+Internal,Real USA GK8,MANA,Decentraland,0x8F509A90c2e47779cA408Fe00d7A72e359229AdA,,0
 Internal,Bittrex,ADA,ADA (Cardano),DdzFFzCqrhsi7yRPo9yK393ZYy22HPEUFQ8XUhUQnxGk6DWXFe8PvhjmhWrqTfHXh7EZGEykDvazeGAZPaMwBGk6pbufPhcivgwn8PAY,,0
-Internal,Genesis,ETC,Ethereum Classic,0xaC6b9686Ff7CAc046081C3fB35e8787FDfc48185,,0
-Internal,Genesis,SUSHI,Sushi Token,0x3F7b3EF82fa12723233032EEF55A62B47fF7125C,,0
-Internal,Genesis,XTZ,Tezos,tz1RMhqxSda3KUMud86vNSw1u2XoDSVyQEkc,,0.19275
-Internal,Genesis,ZEC,ZCash,t1h9bjxCLVXDj3dsJmhmMAXTAtY1kY6JZDR,,0
-Internal,Genesis,MANA,Decentraland,0x6d073EC8E0D41A5D72b61AC19bF8d2DcA9522C8A,,0
-Internal,Genesis,CRV,Curve DAO Token,0x6d073EC8E0D41A5D72b61AC19bF8d2DcA9522C8A,,0
-Internal,Genesis,BTC,Bitcoin,17Gh52H4JzL5BgKguRXxohitPAmC8ABxeF,,0
-Internal,Genesis,EOS,EOS,fwaqgubiol1r,2i1jYuaAt,0.0014
-Internal,Genesis,UMA,UMA Voting Token v1,0x6d073EC8E0D41A5D72b61AC19bF8d2DcA9522C8A,,0
-Internal,Genesis,XLM,Stellar,GB2PY6XVDAQXSHOLGGYEK63VRUJU5NTSEBKL5VLIMWV6RGALZ3EEAIFS,4013675971.00,223645.411607
-Internal,Genesis,BAT,Basic Attn.,0x6d073EC8E0D41A5D72b61AC19bF8d2DcA9522C8A,,0
+Internal,Bittrex,UNI,Uniswap,0xabd174a448eaa1dfca88018a362f6772f2b0f45d,,0
+Internal,Bittrex,XRP,XRP (Ripple),rPVMhWBsfF9iMXYj3aAzJVkPDTFNSyWdKy,2047143625,6156635.161217
+Internal,Bittrex,LTC,Litecoin,LTcjqmtKhACuAQRk83SHCk9PQxoUFxHy4D,,0
+Internal,Bittrex,LINK,Chainlink,0xabd174a448eaa1dfca88018a362f6772f2b0f45d,,0
 Internal,Genesis,BSV,Bitcoin SV,1KgqJ9iYctnafxEpm9Ft5J6Lb61EJLZFXV,,0
-Internal,Genesis,SOL,Solana,Dd2AvuD4QPa84ACMHrebszNwhfAxCazouw93ReYEL7Ne,,0
-Internal,Genesis,GRT,Graph Token,0x6d073EC8E0D41A5D72b61AC19bF8d2DcA9522C8A,,0
-Internal,Genesis,XRP,XRP (Ripple),rMjwMmN3xR8cUc6hbjBixGFDy96JDeSbFJ,3487341822,6264.666781
+Internal,Genesis,MKR,Maker,0x6d073EC8E0D41A5D72b61AC19bF8d2DcA9522C8A,,0
+Internal,Genesis,UMA,UMA Voting Token v1,0x6d073EC8E0D41A5D72b61AC19bF8d2DcA9522C8A,,0
+Internal,Genesis,ADA,ADA (Cardano),addr1qxrqlk3xeemt27hl9epz3neptrkyn88pcmaae9756l524006j3l2qmxj5xx8epmph47z2m849l9sp2t82mhwk6m8sv6q447dsu,,0
+Internal,Genesis,XLM,Stellar,GB2PY6XVDAQXSHOLGGYEK63VRUJU5NTSEBKL5VLIMWV6RGALZ3EEAIFS,4013675971.00,9846.7922426
+Internal,Genesis,ETC,Ethereum Classic,0xaC6b9686Ff7CAc046081C3fB35e8787FDfc48185,,0
 Internal,Genesis,LTC,Litecoin,LfdvNHN7sz5fraS4XneZdTAXXR8RdhLS9g,,0
+Internal,Genesis,YFI,Yearn Finance,0x3F7b3EF82fa12723233032EEF55A62B47fF7125C,,0
+Internal,Genesis,EOS,EOS,fwaqgubiol1r,2i1jYuaAt,0.0014
+Internal,Genesis,XTZ,Tezos,tz1RMhqxSda3KUMud86vNSw1u2XoDSVyQEkc,,0.19275
+Internal,Genesis,BAT,Basic Attn.,0x6d073EC8E0D41A5D72b61AC19bF8d2DcA9522C8A,,0
 Internal,Genesis,UNI,Uniswap,0x6d073EC8E0D41A5D72b61AC19bF8d2DcA9522C8A,,0
+Internal,Genesis,ZEC,ZCash,t1h9bjxCLVXDj3dsJmhmMAXTAtY1kY6JZDR,,0
+Internal,Genesis,BTC,Bitcoin,17Gh52H4JzL5BgKguRXxohitPAmC8ABxeF,,0
+Internal,Genesis,CRV,Curve DAO Token,0x6d073EC8E0D41A5D72b61AC19bF8d2DcA9522C8A,,0
+Internal,Genesis,GRT,Graph Token,0x6d073EC8E0D41A5D72b61AC19bF8d2DcA9522C8A,,0
+Internal,Genesis,SUSHI,Sushi Token,0x3F7b3EF82fa12723233032EEF55A62B47fF7125C,,0
 Internal,Genesis,AAVE,Aave Token,0x6d073EC8E0D41A5D72b61AC19bF8d2DcA9522C8A,,0
 Internal,Genesis,BCH,Bitcoin Cash,bitcoincash:qr3nh79v7dp6p30k34dtseewkveqk0slsqa2jt8yrl,,0
-Internal,Genesis,MKR,Maker,0x6d073EC8E0D41A5D72b61AC19bF8d2DcA9522C8A,,0
-Internal,Genesis,YFI,Yearn Finance,0x3F7b3EF82fa12723233032EEF55A62B47fF7125C,,0
-Internal,Genesis,ADA,ADA (Cardano),addr1qxrqlk3xeemt27hl9epz3neptrkyn88pcmaae9756l524006j3l2qmxj5xx8epmph47z2m849l9sp2t82mhwk6m8sv6q447dsu,,0
+Internal,Genesis,MANA,Decentraland,0x6d073EC8E0D41A5D72b61AC19bF8d2DcA9522C8A,,0
+Internal,Genesis,XRP,XRP (Ripple),rMjwMmN3xR8cUc6hbjBixGFDy96JDeSbFJ,3487341822,6264.666781
+Internal,Genesis,SOL,Solana,Dd2AvuD4QPa84ACMHrebszNwhfAxCazouw93ReYEL7Ne,,0
+Internal,eToro BVI,XRP,XRP (Ripple),rp8fRQLGwiBBMeFwLzoBnjkMntLTGLAU68,9794,46.702701
+Internal,eToro BVI,EOS,EOS,etorox111112,1000000943,0
 Internal,eToro BVI,BCH,Bitcoin Cash,3FFFw2w983yRTXkXQuYz8bAL2ieTKxQThJ,,0
 Internal,eToro BVI,XLM,Stellar,GBCIUUZ6C7WGUQ6TFFZE3WIGLFVU423VMMPQEZ5KSDSFUBJ6MWQQDVJG,4753,2.8318207
-Internal,eToro BVI,EOS,EOS,etorox111112,1000000943,0
-Internal,eToro BVI,DASH,Dash,7dpVDgc845WK8LT8GqhN7ehBLZZtUJrGXS,,0
-Internal,eToro BVI,XRP,XRP (Ripple),rp8fRQLGwiBBMeFwLzoBnjkMntLTGLAU68,9794,46.702701
 Internal,eToro BVI,ETH,Ethereum,0x2344869561c7586de9cad69167c9b95063a70172,,0
 Internal,eToro BVI,BTC,Bitcoin,39zViiM1GQA4SxoDyxTENKTGcvrwvzpkXB,,0
 Internal,eToro BVI,LTC,Litecoin,MMWg7CzPsmJbQYFKEcUMPyajE3MXNctCDN,,0
-Internal,Nostro GK8,DYDX,dYdX,0x62D4E24482bf605C04A1fF2A0E13C8DB21B0AAe5,,0
-Internal,Nostro GK8,ETH,Ethereum,0x62D4E24482bf605C04A1fF2A0E13C8DB21B0AAe5,,7264.649630028829891
-Internal,Nostro GK8,BAT,Basic Attn.,0x62D4E24482bf605C04A1fF2A0E13C8DB21B0AAe5,,10
-Internal,Nostro GK8,XRP,XRP (Ripple),rLNxFsAgsnWQAjdNUoRAkUbQJoZvnLPJMD,,7915332.138114
-Internal,Nostro GK8,ENJ,Enjin Coin,0x62D4E24482bf605C04A1fF2A0E13C8DB21B0AAe5,,10
+Internal,eToro BVI,DASH,Dash,7dpVDgc845WK8LT8GqhN7ehBLZZtUJrGXS,,0
 Internal,Nostro GK8,1INCH,1INCH Token,0x62D4E24482bf605C04A1fF2A0E13C8DB21B0AAe5,,0
-Internal,Nostro GK8,COMP,Compound Token,0x62D4E24482bf605C04A1fF2A0E13C8DB21B0AAe5,,0
-Internal,Nostro GK8,ZRX,0x,0x62D4E24482bf605C04A1fF2A0E13C8DB21B0AAe5,,0
-Internal,Nostro GK8,LINK,Chainlink,0x62D4E24482bf605C04A1fF2A0E13C8DB21B0AAe5,,50
-Internal,Nostro GK8,BCH,Bitcoin Cash,bitcoincash:qq6h362k57mr5j8mf38cexp28q6jar6g6gg6agdfmv,,1.15990536
+Internal,Nostro GK8,ETH,Ethereum,0x62D4E24482bf605C04A1fF2A0E13C8DB21B0AAe5,,7264.518923337014418
+Internal,Nostro GK8,CHZ,Chiliz (ETH),0x62D4E24482bf605C04A1fF2A0E13C8DB21B0AAe5,,0
+Internal,Nostro GK8,BAT,Basic Attn.,0x62D4E24482bf605C04A1fF2A0E13C8DB21B0AAe5,,10
+Internal,Nostro GK8,BTC,Bitcoin,3CzZ6988NTcjJYb6Y79Arg245bSgLx7sdX,,606.49825613
+Internal,Nostro GK8,YFI,Yearn Finance,0x62D4E24482bf605C04A1fF2A0E13C8DB21B0AAe5,,0
+Internal,Nostro GK8,BCH,Bitcoin Cash,bitcoincash:qq6h362k57mr5j8mf38cexp28q6jar6g6gg6agdfmv,,0.65989174
 Internal,Nostro GK8,MKR,Maker,0x62D4E24482bf605C04A1fF2A0E13C8DB21B0AAe5,,0.01
 Internal,Nostro GK8,CRV,Curve DAO Token,0x62D4E24482bf605C04A1fF2A0E13C8DB21B0AAe5,,0
-Internal,Nostro GK8,CHZ,Chiliz (ETH),0x62D4E24482bf605C04A1fF2A0E13C8DB21B0AAe5,,0
-Internal,Nostro GK8,YFI,Yearn Finance,0x62D4E24482bf605C04A1fF2A0E13C8DB21B0AAe5,,0
-Internal,Nostro GK8,BTC,Bitcoin,3CzZ6988NTcjJYb6Y79Arg245bSgLx7sdX,,606.51303897
+Internal,Nostro GK8,ZRX,0x,0x62D4E24482bf605C04A1fF2A0E13C8DB21B0AAe5,,0
 Internal,Nostro GK8,AXS,Axie Infinity Shard,0x62D4E24482bf605C04A1fF2A0E13C8DB21B0AAe5,,0
+Internal,Nostro GK8,COMP,Compound Token,0x62D4E24482bf605C04A1fF2A0E13C8DB21B0AAe5,,0
+Internal,Nostro GK8,DYDX,dYdX,0x62D4E24482bf605C04A1fF2A0E13C8DB21B0AAe5,,0
+Internal,Nostro GK8,LINK,Chainlink,0x62D4E24482bf605C04A1fF2A0E13C8DB21B0AAe5,,50
+Internal,Nostro GK8,XRP,XRP (Ripple),rLNxFsAgsnWQAjdNUoRAkUbQJoZvnLPJMD,,7915282.138094
+Internal,Nostro GK8,ENJ,Enjin Coin,0x62D4E24482bf605C04A1fF2A0E13C8DB21B0AAe5,,10
 Internal,Bitgo GER-01 Real,DASH,Dash,7nARWnpSNoK8bvFdV8eZxKmSJuLqxXLkKi,,0
 Internal,Bitgo GER-01 Real,ZEC,ZCash,t3gXuADwEh3zbSXHPLMx4qda2xZGSRQsQvf,,0
-Internal,Real EU GK8,BICO,Biconomy Token,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,OGN,OriginToken,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,GALA,Gala,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,COMP,Compound Token,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,ALICE,ALICE,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,STORJ,Storj,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,UNI,Uniswap,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,AMP,Amp,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,ENS2,Ethereum Name Service,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,BAT,Basic Attn.,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,APE_ETH,ApeCoin,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,SAND,SAND,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,UMA,UMA Voting Token v1,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,CHZ,Chiliz (ETH),0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,IMX_ERC20,Immutable X,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,CTSI,Cartesi Token,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,XRP,XRP (Ripple),rEvwSpejhGTbdAXbxRTpGAzPBQkBRZxN5s,,607476428.359752
-Internal,Real EU GK8,ZRX,0x,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,MATIC,Matic Token (Ethereum),0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,ENJ,Enjin Coin,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,REN,Republic,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,SHIB,SHIBA INU,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0.00000006
-Internal,Real EU GK8,1INCH,1INCH Token,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,BAL,Balancer,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,QNT,Quant,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,BCH,Bitcoin Cash,bitcoincash:qpq272acfagxhvy4zxvt3aphlvlp2cm80qvnqh2394,,25806.42652668
-Internal,Real EU GK8,GRT,Graph Token,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,MANA,Decentraland,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,FTT,FTX Token,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,YFI,Yearn Finance,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,MKR,Maker,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0.066
-Internal,Real EU GK8,XLM,Stellar,GDOVCE4YMHQVKLQKHS6IBMPQL4WMIDU7SCKFWKWS7C7I3JM46VEX7VEA,0,110627683.1726328
-Internal,Real EU GK8,ADA,ADA (Cardano),addr1q92xhs8g2dvahf254h55e9zqemq5r2d6deww6kt9pherj23lph52t4m85lrvwa24473v982qnnqg93nuqxxduq7ru6msjjlg2z,,219.422141
-Internal,Real EU GK8,AXS,Axie Infinity Shard,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0.75
-Internal,Real EU GK8,CRO,Crypto.com,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,SUSHI,Sushi Token,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,BTC,Bitcoin,39gUvGynQ7Re3i15G3J2gp9DEB9LnLFPMN,,17715.22933715
-Internal,Real EU GK8,FTM,Fantom Token (ERC20),0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,XTZ,Tezos,tz1TkwZDcoTiQCsnQ6XfNRDDBnicrjGDBhco,,3145102.897651
-Internal,Real EU GK8,LPT,Livepeer Token,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,DYDX,dYdX,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,LRC,Loopring,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
-Internal,Real EU GK8,LINK,Chainlink,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
 Internal,Real EU GK8,ETH,Ethereum,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0.399686034113374354
+Internal,Real EU GK8,MATIC,Matic Token (Ethereum),0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,SUSHI,Sushi Token,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,OGN,OriginToken,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,ADA,ADA (Cardano),addr1q92xhs8g2dvahf254h55e9zqemq5r2d6deww6kt9pherj23lph52t4m85lrvwa24473v982qnnqg93nuqxxduq7ru6msjjlg2z,,219.422141
+Internal,Real EU GK8,CHZ,Chiliz (ETH),0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,1INCH,1INCH Token,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,UNI,Uniswap,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,QNT,Quant,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,XTZ,Tezos,tz1TkwZDcoTiQCsnQ6XfNRDDBnicrjGDBhco,,3145002.897186
+Internal,Real EU GK8,MANA,Decentraland,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,ENS2,Ethereum Name Service,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,DYDX,dYdX,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,BICO,Biconomy Token,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,IMX_ERC20,Immutable X,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,SHIB,SHIBA INU,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0.00000006
+Internal,Real EU GK8,FTT,FTX Token,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,ENJ,Enjin Coin,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,STORJ,Storj,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,YFI,Yearn Finance,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,BAT,Basic Attn.,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,XRP,XRP (Ripple),rEvwSpejhGTbdAXbxRTpGAzPBQkBRZxN5s,,607476328.359732
+Internal,Real EU GK8,APE_ETH,ApeCoin,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,CTSI,Cartesi Token,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,UMA,UMA Voting Token v1,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,GRT,Graph Token,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,GALA,Gala,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,AMP,Amp,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,SAND,SAND,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,ZRX,0x,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,LPT,Livepeer Token,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,AXS,Axie Infinity Shard,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0.75
+Internal,Real EU GK8,BAL,Balancer,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,BCH,Bitcoin Cash,bitcoincash:qpq272acfagxhvy4zxvt3aphlvlp2cm80qvnqh2394,,25805.92648553
+Internal,Real EU GK8,BTC,Bitcoin,39gUvGynQ7Re3i15G3J2gp9DEB9LnLFPMN,,18155.23912295
+Internal,Real EU GK8,XLM,Stellar,GDOVCE4YMHQVKLQKHS6IBMPQL4WMIDU7SCKFWKWS7C7I3JM46VEX7VEA,0,110627183.1726228
+Internal,Real EU GK8,MKR,Maker,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0.066
+Internal,Real EU GK8,LINK,Chainlink,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,CRO,Crypto.com,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,REN,Republic,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
 Internal,Real EU GK8,API3,API3,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,ALICE,ALICE,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,LRC,Loopring,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,COMP,Compound Token,0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
+Internal,Real EU GK8,FTM,Fantom Token (ERC20),0xDc1487E092CaBA080C6BADafAa75a58Ce7a2EC34,,0
 Internal,LMAX,LTC,Litecoin,M9dMY9m5C8VQJ37S5zKaKiy1bMeduepVuy,,0
 Internal,LMAX,BCH,Bitcoin Cash,bitcoincash:pzh2vv70t0q78uaaa2txrmx2sm486ualhsg3tt84f4,,0
-Internal,LMAX,ETH,Ethereum,0x324bfd97Bb3EAe0D21ef88c3723F2170c6768259,,0
-Internal,LMAX,XRP,XRP (Ripple),rsM7KAW1wutm2qxeF2FUWb9yRmSPjjS2Ex,347,4054678.74987
 Internal,LMAX,BTC,Bitcoin,33s3dqpgU22PSRpzPvrKg1PU36uCSfTFwQ,,0
-Internal,Real EU Legacy,XRP,XRP (Ripple),rQJteJeKc3v7Vf3JZyYMaS9KMSAhmRzxDD,,10.526528
-Internal,Real EU Legacy,MANA,Decentraland,0x8cf23cd535a240eb0ab8667d24eedbd9eccd5cba,,0
-Internal,Real EU Legacy,YFI,Yearn Finance,0x8cf23cd535a240eb0ab8667d24eedbd9eccd5cba,,0
-Internal,Real EU Legacy,BTC,Bitcoin,1DWxysF7GPRYGShNxL5ux2N2JLRa9rbE6k,,0
-Internal,Real EU Legacy,SOL,Solana,MgR81SuyQVzjXw9snKJHjctRLWstwHM12WKgDQi6ptw,,0
-Internal,Real EU Legacy,SGB,Songbird,0x8559043F063275657F804Eb1e02e54FbaBCDdb6c,,0.000105
-Internal,Real EU Legacy,ETC,Ethereum Classic,0x643e8A813B4b8EBf973bdD7C8eb5D57247F552E0,,0
-Internal,Real EU Legacy,LINK,Chainlink,0x8cf23cd535a240eb0ab8667d24eedbd9eccd5cba,,0
-Internal,Real EU Legacy,BCH,Bitcoin Cash,1hojjV5kBLHTJswGifQjaYJ4P5F15hxnB,,0.00008752
-Internal,Real EU Legacy,DASH,Dash,Xfm1naLjEZg5tnCZnfgkiQW76nicsxKLmn,,0
-Internal,Real EU Legacy,LUNA,Terra Classic Luna,terra102v5tqyu4kv6gzlw79nkv657y8tlxc6ge2rqk7,0,0
-Internal,Real EU Legacy,UNI,Uniswap,0x8cf23cd535a240eb0ab8667d24eedbd9eccd5cba,,0
-Internal,Real EU Legacy,DOT,Polkadot,12ktyKrYoPFfNQnEUzM9Voj9aj14vq43tn4UEhwR6RhWgN51,,0
-Internal,Real EU Legacy,TRX,Tron,TJ3yu4JJkJAiu1wDT6Fz84Yr6mUBjo5PNA,,3.01556
-Internal,Real EU Legacy,XTZ,Tezos,tz1TmBz5CkiMrrcpxATTg1nDtd1CUoBd17DC,,0
-Internal,Real EU Legacy,ZEC,ZCash,t1Xjt9J6ADpwWWZqiXaVF3ZznxLw7vszRJB,,0
-Internal,Real EU Legacy,AAVE,Aave Token,0x8cf23cd535a240eb0ab8667d24eedbd9eccd5cba,,0
-Internal,Real EU Legacy,DOGE,Doge Coin,DLH6o3PPPupQY5bKFw8sVDw477zkdzxRKe,,0
-Internal,Real EU Legacy,XLM,Stellar,GD6R63F7WBFJTI5XWYVXM4WQTIHES6DLBKN5AD2WTBDHDEYAADBTQKYG,0,1
-Internal,Real EU Legacy,COMP,Compound Token,0x8cf23cd535a240eb0ab8667d24eedbd9eccd5cba,,0
-Internal,Real EU Legacy,ETH,Ethereum,0x8CF23cd535a240eb0aB8667D24EEDBD9ecCd5cba,,1.3120221617
-Internal,Bittrex BVI,ETH,Ethereum,0x12e98aeea254c37ee8151ef041fc3363055090a3,,0
-Internal,Bittrex BVI,LTC,Litecoin,LemUo4KfFDZrLPsBii4eb6sD37c6drRze3,,0
+Internal,LMAX,XRP,XRP (Ripple),rsM7KAW1wutm2qxeF2FUWb9yRmSPjjS2Ex,347,7717727.159789
+Internal,LMAX,ETH,Ethereum,0x324bfd97Bb3EAe0D21ef88c3723F2170c6768259,,0
+Internal,Real EU Legacy,FLR,Flare,0xc5213F8e3F6c28b9A50263fC4CFcea5B6D7A4a79,,13.9404894159017672
+Internal,Real EU Legacy,TRX,Tron,TJ3yu4JJkJAiu1wDT6Fz84Yr6mUBjo5PNA,,0.825619
+Internal,Bittrex BVI,XRP,XRP (Ripple),rPVMhWBsfF9iMXYj3aAzJVkPDTFNSyWdKy,1641415106,6156635.161217
 Internal,Bittrex BVI,USDT_ERC20,Tether USD (Ethereum),0x12e98aeea254c37ee8151ef041fc3363055090a3,,0
-Internal,Bittrex BVI,XRP,XRP (Ripple),rPVMhWBsfF9iMXYj3aAzJVkPDTFNSyWdKy,1641415106,24221781.620815
-Internal,Bittrex BVI,BTC,Bitcoin,1NbjaTsjp77JzJBRbsZHrxSV8FestZsoij,,0
+Internal,Bittrex BVI,LTC,Litecoin,LemUo4KfFDZrLPsBii4eb6sD37c6drRze3,,0
 Internal,Bittrex BVI,XTZ,Tezos,tz1gtPPvgmkiC8BK1WeFwgZT4q5zXrfh9UEY,,0.00158
-Internal,Bittrex BVI,DASH,Dash,Xu18rp1wcZhkgLNdTUtpHF6jsEcDpfrVfA,,0
-Internal,Bittrex BVI,EOS,EOS,bittrexacct1,def0b4c90bf04578a36,1556937.791
-Internal,Bittrex BVI,BCH,Bitcoin Cash,1JiHhfGe8ANPJWsYN92JvSUN8P42aptFZK,,0
+Internal,Bittrex BVI,BTC,Bitcoin,1NbjaTsjp77JzJBRbsZHrxSV8FestZsoij,,0
+Internal,Bittrex BVI,EOS,EOS,bittrexacct1,def0b4c90bf04578a36,1333387.0268
 Internal,Bittrex BVI,ETC,Ethereum Classic,0xa005f362cf5b8504b06241638b5089ca2d3eacd1,,0.00005933
+Internal,Bittrex BVI,ETH,Ethereum,0x12e98aeea254c37ee8151ef041fc3363055090a3,,0
+Internal,Bittrex BVI,DASH,Dash,Xu18rp1wcZhkgLNdTUtpHF6jsEcDpfrVfA,,0
+Internal,Bittrex BVI,BCH,Bitcoin Cash,1JiHhfGe8ANPJWsYN92JvSUN8P42aptFZK,,0
 Internal,Bittrex BVI,ADA,ADA (Cardano),DdzFFzCqrhstbSXCeW4MHRXkSeh8N7dhYCkRxgWSXiS3nqQDr875nSQwAq2RAqNrPJ3y9igDtw1MyfDxcsWjJLLi5f8dTe2Eo3zgqEjr,,0
 Internal,Fireblocks - Funding,ADA,ADA (Cardano),addr1qxd5755lx09gc0pd8kxzgjfmlmwpld3fdunxd0huqtlf96e8e2x9tyz0j3zvf4j5t0p8a2km55ypq3c97lq0xzg6ur6qa56dfd,,0
-Internal,Fireblocks - Redeem,ADA,ADA (Cardano),addr1qxhsd7jlrv5vjz7urjrmhdnnp0qd4xryyrzt6q8afewaru4wkrr50352gq7zans957vgrmlfftkzajfzle9arsyw843s7d4t4j,,1336291.163628
+Internal,Fireblocks - Redeem,ADA,ADA (Cardano),addr1qxhsd7jlrv5vjz7urjrmhdnnp0qd4xryyrzt6q8afewaru4wkrr50352gq7zans957vgrmlfftkzajfzle9arsyw843s7d4t4j,,1602114.089374
